@@ -1,0 +1,88 @@
+# Tabela de atividades "fixas": programação que existe todo fim de semana
+# (ou quase), independente da busca semanal por eventos pontuais.
+# O agente soma isso à pesquisa de quarta-feira para montar a sugestão completa.
+#
+# Verificado em 2026-08-21 via busca na web — horários de parques/museus
+# mudam com frequência (época do ano, manutenção), então o agente deve
+# confirmar o horário do fim de semana específico antes de recomendar.
+
+- nome: Parque das Mangabeiras
+  categoria: ar livre / trilha / mirante
+  endereco: "Rua Professor Otávio Coelho de Magalhães, 315, Mangabeiras, Belo Horizonte"
+  horario_fds: "Quarta a domingo, 8h às 17h (Mirante da Mata só até 16h)"
+  preco: Gratuito
+  por_que_combina: >
+    Trilhas leves, playground, mirante com vista de BH — bom para trabalhar
+    resistência física das crianças e criar rotina de contato com a mata
+    nativa do cerrado/mata atlântica.
+  fonte: https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica/informacoes/parques/parque-das-mangabeiras
+
+- nome: Parque Ecológico da Pampulha (Francisco Lins do Rêgo)
+  categoria: ar livre / natureza / memorial
+  endereco: "Avenida Otacílio Negrão de Lima, 6061, Pampulha, Belo Horizonte"
+  horario_fds: >
+    Terça a domingo, 8h30 às 17h (fechamento varia por época do ano: até
+    17h30 em maio-jul, até 19h out-fev, até 18h mar/abr/ago/set). Fecha às
+    segundas.
+  preco: Gratuito
+  por_que_combina: >
+    Trilhas, lago com aves, Memorial da Imigração Japonesa — boa história
+    pra contar (imigração japonesa em MG) junto com contato com natureza.
+  fonte: https://prefeitura.pbh.gov.br/fundacao-de-parques-e-zoobotanica/informacoes/parques/parque-ecologico-da-pampulha
+
+- nome: Orla / Ciclovia da Lagoa da Pampulha
+  categoria: ar livre / esporte / arquitetura
+  endereco: "Orla da Lagoa da Pampulha (acesso pela Av. Otacílio Negrão de Lima ou Av. Antônio Carlos), Belo Horizonte"
+  horario_fds: "Aberta 24h, todos os dias (18km de ciclovia ao redor da lagoa)"
+  preco: Gratuito (aluguel de bike é pago, se não tiver bike própria)
+  por_que_combina: >
+    Passeio de bike/patinete em família, com paradas na Igreja São Francisco
+    de Assis (afrescos de Portinari) e no Museu de Arte da Pampulha — ótimo
+    para combinar esporte com uma pitada de arte/arquitetura modernista
+    (Oscar Niemeyer), mesmo com crianças pequenas (carrinho/bike com cadeirinha).
+  fonte: https://www.lagoadapampulha.com.br/caminhada-e-ciclismo-na-lagoa-da-pampulha-roteiro-dicas-e-seguranca/
+
+- nome: Museu de Arte da Pampulha (MAP)
+  categoria: museu / arte
+  endereco: "Av. Otacílio Negrão de Lima, 16.585, São Luíz, Belo Horizonte (orla da Lagoa da Pampulha)"
+  horario_fds: "Terça a domingo, 10h às 17h"
+  preco: A confirmar (geralmente gratuito ou entrada simbólica)
+  por_que_combina: >
+    Prédio modernista de Niemeyer no antigo Cassino da Pampulha — história
+    de arquitetura e arte em dose curta, combina bem com o passeio na orla.
+  fonte: https://soubh.uai.com.br/noticias/turismo/museu-de-arte-da-pampulha-o-que-saber-antes-de-visitar-em-bh/
+
+- nome: Museu de Ciências Naturais da PUC Minas
+  categoria: museu / ciências
+  endereco: "Av. Dom José Gaspar, 290, Campus PUC Minas Coração Eucarístico, Belo Horizonte"
+  horario_fds: "Sábado, 9h às 17h (bilheteria até 16h). Fechado domingo e segunda."
+  preco: "R$ 20 (museu); R$ 32 combo museu + planetário; grátis até 3 anos"
+  por_que_combina: >
+    Acervo de paleontologia, zoologia e planetário — forte em "aprendizado
+    com história pra contar" (dinossauros, sistema solar), ótimo gancho
+    emocional para crianças pequenas.
+  fonte: https://museu.pucminas.br/visite/
+
+- nome: Museu de História Natural e Jardim Botânico da UFMG (MHNJB)
+  categoria: museu / ciências / jardim botânico
+  endereco: "Rua Gustavo da Silveira, 1035, Santa Inês, Belo Horizonte"
+  horario_fds: "Sábado, 8h30 às 16h (permanência até 17h). Fechado domingo."
+  preco: "Gratuito (entrada individual sem agendamento)"
+  por_que_combina: >
+    Jardim botânico + coleções de história natural ao ar livre — mistura
+    o "museu com conteúdo" com o "ar livre", ótimo equilíbrio para as duas
+    filhas pequenas correrem e ainda aprenderem algo.
+  fonte: https://www.ufmg.br/mhnjb/visite/horarios/
+
+- nome: Espaço do Conhecimento UFMG
+  categoria: museu / ciências / planetário
+  endereco: "Praça da Liberdade, s/n, Funcionários, Belo Horizonte (Circuito Cultural Praça da Liberdade)"
+  horario_fds: "Sábado, 10h às 21h; domingo, 10h às 17h"
+  preco: "Gratuito (exceto sessões do Planetário, pagas)"
+  por_que_combina: >
+    Exposições interativas de ciência pensadas para família, sessões de
+    planetário e terraço astronômico — muito forte no critério "aprendizado
+    + memória emocional", e fica num circuito de praça com outros museus
+    (Memorial Minas Gerais Vale, Museu das Minas e do Metal) para esticar o
+    passeio se o clima ajudar.
+  fonte: https://www.ufmg.br/procult/espacos-de-cultura/espaco-do-conhecimento-ufmg/

@@ -1,0 +1,46 @@
+# Perfil e preferências da família para o agente de passeios de fim de semana.
+# Editar este arquivo é o jeito de "recalibrar" o agente — ele é lido antes
+# de cada busca semanal (ver weekend-agent/README.md).
+
+location:
+  address: "Avenida Álvares Cabral, 377, Lourdes, Belo Horizonte, MG"
+  search_radius_km: 150
+  note: >
+    Considerar passeios na Grande BH e em cidades dentro do raio de 150km
+    (ex: Sabará, Ouro Preto, Mariana, Tiradentes, São João del-Rei, Congonhas,
+    Brumadinho, Nova Lima, Caeté, Serra do Cipó, Inhotim), não só a capital.
+
+family:
+  adults:
+    - papel: pai
+      idade: 37
+    - papel: mãe
+      idade: 39
+  crianças:
+    - idade: 4
+    - idade: 2
+
+preferences:
+  gosta:
+    - Passeios que sejam divertidos para as crianças, mas com algum conteúdo:
+      uma história pra contar, um aprendizado, uma competência sendo
+      desenvolvida (não só entretenimento vazio).
+    - Passeios que gerem memórias emocionais positivas para as filhas.
+    - Atividades ao ar livre.
+    - Esportes.
+    - Museus.
+  não_gosta:
+    - Passeios de puro consumismo (shopping, compras como atividade em si).
+    - Alimentação muito pouco saudável como parte central do passeio.
+  orçamento: >
+    Não filtrar por orçamento. Apresentar todas as opções relevantes,
+    incluindo as pagas e as caras — quem decide se cabe no bolso ou se vale
+    a pena é a família, na hora de escolher.
+
+delivery:
+  canal: push_notification
+  formato: >
+    Notificação push curta (título/teaser) apontando para um artifact
+    publicado com o roteiro completo do fim de semana (todos os detalhes:
+    nome, local, endereço, horário, preço, e por que combina com o perfil
+    da família).
