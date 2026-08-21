@@ -11,20 +11,28 @@ pontuais (peças, feiras, shows, exposições temporárias, eventos ao ar livre)
    critérios de gosto (o que priorizar, o que evitar). Editar este arquivo
    é a forma de recalibrar as sugestões.
 2. **`fixed-activities.yaml`** — tabela de atividades fixas (parques, museus)
-   com endereço, horário de fim de semana e por que combinam com o perfil
-   da família. Editar/adicionar linhas aqui conforme forem descobrindo
-   novos lugares fixos.
+   com endereço, horário de fim de semana, link (campo `fonte`) e por que
+   combinam com o perfil da família. Editar/adicionar linhas aqui conforme
+   forem descobrindo novos lugares fixos.
 3. **Routine semanal (toda quarta-feira)** — uma tarefa agendada do Claude
-   Code que, toda quarta, lê estes dois arquivos e faz uma busca extensa
-   na web por programação do fim de semana seguinte (shows, peças, feiras,
+   Code que, toda quarta: (a) procura newsletters de agenda cultural
+   recebidas no Gmail nos últimos dias; (b) faz uma busca extensa na web
+   por programação do fim de semana seguinte (shows, peças, feiras,
    exposições temporárias) em Belo Horizonte e cidades num raio de até
-   150km. Ela filtra e organiza tudo considerando os critérios de
-   `preferences.yaml` (sem cortar por orçamento — isso quem decide é a
-   família), monta um roteiro detalhado e publica como um artifact.
-4. **Notificação** — ao final, a Routine dispara uma notificação push
+   150km; (c) combina tudo com a tabela de atividades fixas. Ela filtra e
+   organiza considerando os critérios de `preferences.yaml` (sem cortar
+   por orçamento — isso quem decide é a família), monta um roteiro
+   detalhado e publica como um artifact.
+4. **Cada item do roteiro traz**: nome, categoria, local, endereço,
+   dia/horário, preço, um **link para mais informações** (site oficial,
+   página de ingressos, matéria ou post/perfil do Instagram quando não há
+   outra fonte) e a **classificação etária/indicativa recomendada quando
+   ela for divulgada** (comum em teatro/shows; não existe para
+   parques/museus abertos ao público em geral, então fica de fora nesses
+   casos em vez de ser inventada).
+5. **Notificação** — ao final, a Routine dispara uma notificação push
    curta avisando que o roteiro do fim de semana está pronto, com o link
-   do artifact (que tem todos os detalhes: local, endereço, horário,
-   preço e por que o programa foi escolhido).
+   do artifact.
 
 ## Atualizando o agente
 
@@ -40,9 +48,15 @@ pontuais (peças, feiras, shows, exposições temporárias, eventos ao ar livre)
 ## Observação sobre a Routine
 
 A Routine (`weekend-family-outings`) foi criada via `create_trigger`, com
-disparo semanal às quartas-feiras. Ela roda em uma sessão nova a cada
-disparo (não depende desta sessão continuar viva) e embute uma cópia do
-conteúdo de `preferences.yaml` e `fixed-activities.yaml` no próprio prompt,
-para funcionar de forma autocontida. Se estes arquivos forem alterados,
-atualize a Routine também (`update_trigger`) para manter as duas fontes em
-sincronia.
+disparo semanal às quartas-feiras (10h BRT / 13h UTC), e embute uma cópia
+do conteúdo de `preferences.yaml` e `fixed-activities.yaml` no próprio
+prompt, para funcionar de forma autocontida. Se estes arquivos forem
+alterados, atualize a Routine também (`update_trigger`) para manter as
+duas fontes em sincronia.
+
+Ela roda retomando a sessão de Claude Code do usuário (`persistent_session_id`),
+em vez de abrir uma sessão nova a cada disparo — essa organização não
+permite conceder o conector do Gmail a uma sessão nova via `create_trigger`,
+então esse é o jeito de a Routine conseguir ler as newsletters de agenda
+cultural do usuário e de garantir que a notificação push chegue no celular
+já conectado a essa sessão.
