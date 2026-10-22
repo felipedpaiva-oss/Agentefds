@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2876" height="1460" viewBox="0 0 2876 1460" font-family="Inter, DejaVu Sans, sans-serif">
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker>
+<linearGradient id="both" x1="0" x2="0" y1="0" y2="1"><stop offset="0.5" stop-color="#FBEBD9"/><stop offset="0.5" stop-color="#E1EDFB"/></linearGradient></defs>
+<rect width="2876" height="1460" fill="#F7F5F1"/>
+<rect x="20" y="100" width="2836" height="295" rx="12" fill="#F4E3D0" fill-opacity="0.55"/>
+<rect x="20" y="395" width="2836" height="295" rx="12" fill="#D7E6F7" fill-opacity="0.55"/>
+<rect x="20" y="820" width="2836" height="275" rx="12" fill="#F4E3D0" fill-opacity="0.55"/>
+<rect x="20" y="1095" width="2836" height="275" rx="12" fill="#D7E6F7" fill-opacity="0.55"/>
+<rect x="136" y="30" width="2644" height="672" rx="14" fill="#fff" fill-opacity="0.5" stroke="#C9C4BA" stroke-width="1.2"/><text x="154" y="60" font-size="16" font-weight="700" fill="#5A5248" letter-spacing="0.5">A · FORMAÇÃO DA BASE</text><text x="154" y="82" font-size="13" fill="#7A7268">1 vez por ano ou a cada 2 anos</text>
+<rect x="136" y="750" width="974" height="632" rx="14" fill="#fff" fill-opacity="0.5" stroke="#C9C4BA" stroke-width="1.2"/><text x="154" y="780" font-size="16" font-weight="700" fill="#5A5248" letter-spacing="0.5">B · DUE DILIGENCE EM RODADAS</text><text x="154" y="802" font-size="13" fill="#7A7268">10 lotes por rodada</text>
+<rect x="1122" y="750" width="1718" height="632" rx="14" fill="#fff" fill-opacity="0.5" stroke="#C9C4BA" stroke-width="1.2"/><text x="1140" y="780" font-size="16" font-weight="700" fill="#5A5248" letter-spacing="0.5">C · FUNIL DE NEGOCIAÇÃO</text><text x="1140" y="802" font-size="13" fill="#7A7268">contínuo</text>
+<line x1="20" y1="395" x2="2856" y2="395" stroke="#B9B2A6" stroke-width="1.5" stroke-dasharray="4 6"/>
+<g transform="translate(62,247.5) rotate(-90)"><text text-anchor="middle" font-size="21" font-weight="800" fill="#8A4A16">PESSOAS</text><text y="22" text-anchor="middle" font-size="12" fill="#8A4A16">diretoria · jurídico · arquiteto · corretor</text></g>
+<g transform="translate(62,542.5) rotate(-90)"><text text-anchor="middle" font-size="21" font-weight="800" fill="#1D4F86">AGENTES DE IA</text><text y="22" text-anchor="middle" font-size="12" fill="#1D4F86">dados · cálculo · documentos</text></g>
+<line x1="20" y1="1095" x2="2856" y2="1095" stroke="#B9B2A6" stroke-width="1.5" stroke-dasharray="4 6"/>
+<g transform="translate(62,957.5) rotate(-90)"><text text-anchor="middle" font-size="21" font-weight="800" fill="#8A4A16">PESSOAS</text><text y="22" text-anchor="middle" font-size="12" fill="#8A4A16">diretoria · jurídico · arquiteto · corretor</text></g>
+<g transform="translate(62,1232.5) rotate(-90)"><text text-anchor="middle" font-size="21" font-weight="800" fill="#1D4F86">AGENTES DE IA</text><text y="22" text-anchor="middle" font-size="12" fill="#1D4F86">dados · cálculo · documentos</text></g>
+<rect x="160.0" y="225.5" width="100" height="44" rx="22" fill="#2B2B2B"/>
+<text x="210.0" y="252.5" text-anchor="middle" font-size="14.5" font-weight="600" fill="#fff">Início</text>
+<rect x="320.0" y="191.5" width="250" height="112" rx="10" fill="#FBEBD9" stroke="#B8692A" stroke-width="2"/>
+<circle cx="340.0" cy="214.5" r="12" fill="#B8692A"/>
+<text x="340.0" y="219.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">1</text>
+<text x="360.0" y="219.5" font-size="15" font-weight="700" fill="#8A4A16">Reunião da diretoria</text>
+<text x="334.0" y="245.5" font-size="14" fill="#2B2B2B">Define critérios: qualidade do</text>
+<text x="334.0" y="265.5" font-size="14" fill="#2B2B2B">ponto, área mínima,</text>
+<text x="334.0" y="285.5" font-size="14" fill="#2B2B2B">prioridades dos lotes etc.</text>
+<rect x="630.0" y="201.5" width="220" height="92" rx="10" fill="#FBEBD9" stroke="#B8692A" stroke-width="2"/>
+<circle cx="650.0" cy="224.5" r="12" fill="#B8692A"/>
+<text x="650.0" y="229.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">2</text>
+<text x="670.0" y="229.5" font-size="15" font-weight="700" fill="#8A4A16">Seleção dos bairros</text>
+<text x="644.0" y="255.5" font-size="14" fill="#2B2B2B">Diretoria escolhe onde</text>
+<text x="644.0" y="275.5" font-size="14" fill="#2B2B2B">buscar.</text>
+<rect x="910.0" y="339.0" width="250" height="112" rx="10" fill="url(#both)" stroke="#6B5B95" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="930.0" cy="362.0" r="12" fill="#6B5B95"/>
+<text x="930.0" y="366.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">3</text>
+<text x="950.0" y="367.0" font-size="15" font-weight="700" fill="#4B3F72">Levantar lista de lotes</text>
+<text x="924.0" y="393.0" font-size="14" fill="#2B2B2B">Todos os lotes do cadastro da</text>
+<text x="924.0" y="413.0" font-size="14" fill="#2B2B2B">prefeitura nos bairros</text>
+<text x="924.0" y="433.0" font-size="14" fill="#2B2B2B">escolhidos.</text>
+<rect x="1220.0" y="349.0" width="250" height="92" rx="10" fill="url(#both)" stroke="#6B5B95" stroke-width="2" stroke-dasharray="7 5"/>
+<circle cx="1240.0" cy="372.0" r="12" fill="#6B5B95"/>
+<text x="1240.0" y="376.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">4</text>
+<text x="1260.0" y="377.0" font-size="15" font-weight="700" fill="#4B3F72">Cruzar os dados</text>
+<text x="1234.0" y="403.0" font-size="14" fill="#2B2B2B">Lotes com área suficiente ou</text>
+<text x="1234.0" y="423.0" font-size="14" fill="#2B2B2B">potencial de remembramento.</text>
+<rect x="1530.0" y="457.0" width="270" height="171" rx="10" fill="#E1EDFB" stroke="#2F6FB3" stroke-width="2"/>
+<circle cx="1550.0" cy="480.0" r="12" fill="#2F6FB3"/>
+<text x="1550.0" y="484.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">5</text>
+<text x="1570.0" y="485.0" font-size="15" font-weight="700" fill="#1D4F86">Cadastrar lotes em</text>
+<text x="1570.0" y="504.0" font-size="15" font-weight="700" fill="#1D4F86">potencial</text>
+<text x="1544.0" y="530.0" font-size="14" fill="#2B2B2B">Zoneamento · área · dimensões</text>
+<text x="1544.0" y="550.0" font-size="14" fill="#2B2B2B">(L×C) · endereço · ADE ·</text>
+<text x="1544.0" y="570.0" font-size="14" fill="#2B2B2B">construções existentes · alvarás</text>
+<text x="1544.0" y="590.0" font-size="14" fill="#2B2B2B">· índice cadastral · matrícula ·</text>
+<text x="1544.0" y="610.0" font-size="14" fill="#2B2B2B">tombamento (s/n) · nota do ponto</text>
+<rect x="1860.0" y="496.5" width="220" height="92" rx="10" fill="#E1EDFB" stroke="#2F6FB3" stroke-width="2"/>
+<circle cx="1880.0" cy="519.5" r="12" fill="#2F6FB3"/>
+<text x="1880.0" y="524.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">6</text>
+<text x="1900.0" y="524.5" font-size="15" font-weight="700" fill="#1D4F86">Plotar no mapa</text>
+<text x="1874.0" y="550.5" font-size="14" fill="#2B2B2B">Lotes cadastrados em mapa</text>
+<text x="1874.0" y="570.5" font-size="14" fill="#2B2B2B">interativo.</text>
+<rect x="2140.0" y="201.5" width="220" height="92" rx="10" fill="#FBEBD9" stroke="#B8692A" stroke-width="2"/>
+<circle cx="2160.0" cy="224.5" r="12" fill="#B8692A"/>
+<text x="2160.0" y="229.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">7</text>
+<text x="2180.0" y="229.5" font-size="15" font-weight="700" fill="#8A4A16">Triagem humana</text>
+<text x="2154.0" y="255.5" font-size="14" fill="#2B2B2B">Corrige ou descarta erros</text>
+<text x="2154.0" y="275.5" font-size="14" fill="#2B2B2B">evidentes.</text>
+<rect x="2420.0" y="486.5" width="230" height="112" rx="10" fill="#E1EDFB" stroke="#2F6FB3" stroke-width="2"/>
+<circle cx="2440.0" cy="509.5" r="12" fill="#2F6FB3"/>
+<text x="2440.0" y="514.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">8</text>
+<text x="2460.0" y="514.5" font-size="15" font-weight="700" fill="#1D4F86">Lista priorizada</text>
+<text x="2434.0" y="540.5" font-size="14" fill="#2B2B2B">~100 lotes por ordem de</text>
+<text x="2434.0" y="560.5" font-size="14" fill="#2B2B2B">prioridade (área, ponto</text>
+<text x="2434.0" y="580.5" font-size="14" fill="#2B2B2B">etc.).</text>
+<circle cx="2733.0" cy="542.5" r="23" fill="#fff" stroke="#555" stroke-width="2.5"/>
+<text x="2733.0" y="548.5" text-anchor="middle" font-size="17" font-weight="800" fill="#333">B</text>
+<circle cx="183.0" cy="1232.5" r="23" fill="#fff" stroke="#555" stroke-width="2.5"/>
+<text x="183.0" y="1238.5" text-anchor="middle" font-size="17" font-weight="800" fill="#333">B</text>
+<rect x="266.0" y="1166.5" width="270" height="132" rx="10" fill="#E1EDFB" stroke="#2F6FB3" stroke-width="2"/>
+<circle cx="286.0" cy="1189.5" r="12" fill="#2F6FB3"/>
+<text x="286.0" y="1194.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">9</text>
+<text x="306.0" y="1194.5" font-size="15" font-weight="700" fill="#1D4F86">Rodada de due diligence</text>
+<text x="280.0" y="1220.5" font-size="14" fill="#2B2B2B">~10 lotes mais prioritários: ler</text>
+<text x="280.0" y="1240.5" font-size="14" fill="#2B2B2B">matrículas, checar proprietário</text>
+<text x="280.0" y="1260.5" font-size="14" fill="#2B2B2B">falecido, achar complicações</text>
+<text x="280.0" y="1280.5" font-size="14" fill="#2B2B2B">(ônus, penhora, espólio).</text>
+<rect x="596.0" y="1186.5" width="220" height="92" rx="10" fill="#E1EDFB" stroke="#2F6FB3" stroke-width="2"/>
+<circle cx="616.0" cy="1209.5" r="12" fill="#2F6FB3"/>
+<text x="616.0" y="1214.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">10</text>
+<text x="636.0" y="1214.5" font-size="15" font-weight="700" fill="#1D4F86">Nota jurídica</text>
+<text x="610.0" y="1240.5" font-size="14" fill="#2B2B2B">Nota por lote conforme a</text>
+<text x="610.0" y="1260.5" font-size="14" fill="#2B2B2B">situação jurídica.</text>
+<polygon points="981.0,882.5 1086.0,957.5 981.0,1032.5 876.0,957.5" fill="#FBEBD9" stroke="#B8692A" stroke-width="2"/>
+<text x="981.0" y="944.5" text-anchor="middle" font-size="14" font-weight="600" fill="#8A4A16">Nº desejado de</text>
+<text x="981.0" y="962.5" text-anchor="middle" font-size="14" font-weight="600" fill="#8A4A16">terrenos</text>
+<text x="981.0" y="980.5" text-anchor="middle" font-size="14" font-weight="600" fill="#8A4A16">atingido?</text>
+<rect x="1146.0" y="1176.5" width="240" height="112" rx="10" fill="#E1EDFB" stroke="#2F6FB3" stroke-width="2"/>
+<circle cx="1166.0" cy="1199.5" r="12" fill="#2F6FB3"/>
+<text x="1166.0" y="1204.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">11</text>
+<text x="1186.0" y="1204.5" font-size="15" font-weight="700" fill="#1D4F86">Criar os cards</text>
+<text x="1160.0" y="1230.5" font-size="14" fill="#2B2B2B">Card por</text>
+<text x="1160.0" y="1250.5" font-size="14" fill="#2B2B2B">terreno/remembramento com 1ª</text>
+<text x="1160.0" y="1270.5" font-size="14" fill="#2B2B2B">estimativa da viabilidade.</text>
+<rect x="1446.0" y="882.0" width="250" height="151" rx="10" fill="#FBEBD9" stroke="#B8692A" stroke-width="2"/>
+<circle cx="1466.0" cy="905.0" r="12" fill="#B8692A"/>
+<text x="1466.0" y="909.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">12</text>
+<text x="1486.0" y="910.0" font-size="15" font-weight="700" fill="#8A4A16">Funil etapa 1:</text>
+<text x="1486.0" y="929.0" font-size="15" font-weight="700" fill="#8A4A16">conferência</text>
+<text x="1460.0" y="955.0" font-size="14" fill="#2B2B2B">Jurídico: documentação.</text>
+<text x="1460.0" y="975.0" font-size="14" fill="#2B2B2B">Arquiteto/diretor: áreas e</text>
+<text x="1460.0" y="995.0" font-size="14" fill="#2B2B2B">projeto.</text>
+<text x="1460.0" y="1015.0" font-size="14" fill="#2B2B2B">Diretor: viabilidade.</text>
+<rect x="1756.0" y="902.0" width="230" height="111" rx="10" fill="#FBEBD9" stroke="#B8692A" stroke-width="2"/>
+<circle cx="1776.0" cy="925.0" r="12" fill="#B8692A"/>
+<text x="1776.0" y="929.5" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">13</text>
+<text x="1796.0" y="930.0" font-size="15" font-weight="700" fill="#8A4A16">Abordagem por</text>
+<text x="1796.0" y="949.0" font-size="15" font-weight="700" fill="#8A4A16">corretor</text>
+<text x="1770.0" y="975.0" font-size="14" fill="#2B2B2B">Corretor visita a casa e</text>
+<text x="1770.0" y="995.0" font-size="14" fill="#2B2B2B">conversa.</text>
+<rect x="1756.0" y="1186.5" width="230" height="92" rx="10" fill="#E1EDFB" stroke="#2F6FB3" stroke-width="2"/>
+<circle cx="1776.0" cy="1209.5" r="12" fill="#2F6FB3"/>
+<text x="1776.0" y="1214.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">13</text>
+<text x="1796.0" y="1214.5" font-size="15" font-weight="700" fill="#1D4F86">Carta (opcional)</text>
+<text x="1770.0" y="1240.5" font-size="14" fill="#2B2B2B">Carta de interesse com QR</text>
+<text x="1770.0" y="1260.5" font-size="14" fill="#2B2B2B">code que leva ao WhatsApp.</text>
+<rect x="2046.0" y="901.5" width="240" height="112" rx="10" fill="#FBEBD9" stroke="#B8692A" stroke-width="2"/>
+<circle cx="2066.0" cy="924.5" r="12" fill="#B8692A"/>
+<text x="2066.0" y="929.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">14</text>
+<text x="2086.0" y="929.5" font-size="15" font-weight="700" fill="#8A4A16">Negociação</text>
+<text x="2060.0" y="955.5" font-size="14" fill="#2B2B2B">Diretor avança os cards; cada</text>
+<text x="2060.0" y="975.5" font-size="14" fill="#2B2B2B">conversa adiciona</text>
+<text x="2060.0" y="995.5" font-size="14" fill="#2B2B2B">informações.</text>
+<rect x="2046.0" y="1186.5" width="240" height="92" rx="10" fill="#E1EDFB" stroke="#2F6FB3" stroke-width="2"/>
+<circle cx="2066.0" cy="1209.5" r="12" fill="#2F6FB3"/>
+<text x="2066.0" y="1214.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">15</text>
+<text x="2086.0" y="1214.5" font-size="15" font-weight="700" fill="#1D4F86">Recalcular prioridade</text>
+<text x="2060.0" y="1240.5" font-size="14" fill="#2B2B2B">Nota sobe ou desce; terreno</text>
+<text x="2060.0" y="1260.5" font-size="14" fill="#2B2B2B">pode virar “perdido”.</text>
+<rect x="2346.0" y="911.5" width="240" height="92" rx="10" fill="#FBEBD9" stroke="#B8692A" stroke-width="2"/>
+<circle cx="2366.0" cy="934.5" r="12" fill="#B8692A"/>
+<text x="2366.0" y="939.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">16</text>
+<text x="2386.0" y="939.5" font-size="15" font-weight="700" fill="#8A4A16">Pedir nova simulação</text>
+<text x="2360.0" y="965.5" font-size="14" fill="#2B2B2B">Msg ou áudio: “tira o lote 2,</text>
+<text x="2360.0" y="985.5" font-size="14" fill="#2B2B2B">refaz com R$ 4,2 mi”.</text>
+<rect x="2346.0" y="1186.5" width="240" height="92" rx="10" fill="#E1EDFB" stroke="#2F6FB3" stroke-width="2"/>
+<circle cx="2366.0" cy="1209.5" r="12" fill="#2F6FB3"/>
+<text x="2366.0" y="1214.0" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">17</text>
+<text x="2386.0" y="1214.5" font-size="15" font-weight="700" fill="#1D4F86">Planilha atualizada</text>
+<text x="2360.0" y="1240.5" font-size="14" fill="#2B2B2B">Viabilidade recalculada em</text>
+<text x="2360.0" y="1260.5" font-size="14" fill="#2B2B2B">segundos.</text>
+<rect x="2646.0" y="925.5" width="170" height="64" rx="22" fill="#2B2B2B"/>
+<text x="2731.0" y="953.5" text-anchor="middle" font-size="14.5" font-weight="600" fill="#fff">Compra fechada ou</text>
+<text x="2731.0" y="971.5" text-anchor="middle" font-size="14.5" font-weight="600" fill="#fff">terreno perdido</text>
+<path d="M260.0,247.5 L318.0,247.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M570.0,247.5 L628.0,247.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M850.0,247.5 L880.0,247.5 L880.0,395 L908.0,395" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M1160.0,395 L1218.0,395" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M1470.0,395 L1500.0,395 L1500.0,542.5 L1528.0,542.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M1800.0,542.5 L1858.0,542.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M2080.0,542.5 L2110.0,542.5 L2110.0,247.5 L2138.0,247.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M2360.0,247.5 L2390.0,247.5 L2390.0,542.5 L2418.0,542.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M2650.0,542.5 L2708.0,542.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M206.0,1232.5 L264.0,1232.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M536.0,1232.5 L594.0,1232.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M816.0,1232.5 L846.0,1232.5 L846.0,957.5 L874.0,957.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M981.0,882.5 L981.0,844 L401.0,844 L401.0,1164.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<text x="691.0" y="836" font-size="13" font-style="italic" fill="#444" text-anchor="middle" paint-order="stroke" stroke="#F7F5F1" stroke-width="5">Não: diretoria lança nova rodada (próximos 10)</text>
+<path d="M1086.0,957.5 L1116.0,957.5 L1116.0,1232.5 L1144.0,1232.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<text x="1132.0" y="949.5" font-size="13" font-style="italic" fill="#444" text-anchor="middle" paint-order="stroke" stroke="#F7F5F1" stroke-width="5">Sim</text>
+<path d="M1386.0,1232.5 L1416.0,1232.5 L1416.0,957.5 L1444.0,957.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M1696.0,957.5 L1754.0,957.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M1726.0,957.5 L1726.0,1232.5 L1754.0,1232.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<text x="1716.0" y="1095.0" font-size="13" font-style="italic" fill="#444" text-anchor="end" paint-order="stroke" stroke="#F7F5F1" stroke-width="5">ou</text>
+<path d="M1986.0,957.5 L2044.0,957.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M1986.0,1232.5 L2016.0,1232.5 L2016.0,965.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M2116.0,1013.5 L2116.0,1184.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<text x="2108.0" y="1096.0" font-size="13" font-style="italic" fill="#444" text-anchor="end" paint-order="stroke" stroke="#F7F5F1" stroke-width="5">novas</text>
+<text x="2108.0" y="1113.0" font-size="13" font-style="italic" fill="#444" text-anchor="end" paint-order="stroke" stroke="#F7F5F1" stroke-width="5">informações</text>
+<path d="M2216.0,1186.5 L2216.0,1015.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<text x="2224.0" y="1096.0" font-size="13" font-style="italic" fill="#444" text-anchor="start" paint-order="stroke" stroke="#F7F5F1" stroke-width="5">nota</text>
+<text x="2224.0" y="1113.0" font-size="13" font-style="italic" fill="#444" text-anchor="start" paint-order="stroke" stroke="#F7F5F1" stroke-width="5">atualizada</text>
+<path d="M2286.0,931.5 L2344.0,931.5" fill="none" stroke="#555" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#arr)"/>
+<text x="2316.0" y="905.5" font-size="13" font-style="italic" fill="#444" text-anchor="middle" paint-order="stroke" stroke="#F7F5F1" stroke-width="5">quando muda</text>
+<text x="2316.0" y="921.5" font-size="13" font-style="italic" fill="#444" text-anchor="middle" paint-order="stroke" stroke="#F7F5F1" stroke-width="5">um parâmetro</text>
+<path d="M2466.0,1003.5 L2466.0,1184.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<path d="M2346.0,1232.5 L2316.0,1232.5 L2316.0,983.5 L2288.0,983.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<text x="2324.0" y="1120.0" font-size="13" font-style="italic" fill="#444" text-anchor="start" paint-order="stroke" stroke="#F7F5F1" stroke-width="5">planilha</text>
+<text x="2324.0" y="1136.0" font-size="13" font-style="italic" fill="#444" text-anchor="start" paint-order="stroke" stroke="#F7F5F1" stroke-width="5">devolvida</text>
+<path d="M2166.0,901.5 L2166.0,844 L2731.0,844 L2731.0,923.5" fill="none" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+<text x="2448.5" y="836" font-size="13" font-style="italic" fill="#444" text-anchor="middle" paint-order="stroke" stroke="#F7F5F1" stroke-width="5">fechado / perdido</text>
+<rect x="160" y="1412" width="26" height="18" rx="4" fill="#FBEBD9" stroke="#B8692A" stroke-width="2"/>
+<text x="196" y="1426" font-size="14" fill="#333">Feito por pessoas</text>
+<rect x="370" y="1412" width="26" height="18" rx="4" fill="#E1EDFB" stroke="#2F6FB3" stroke-width="2"/>
+<text x="406" y="1426" font-size="14" fill="#333">Feito por agentes de IA</text>
+<rect x="610" y="1412" width="26" height="18" rx="4" fill="url(#both)" stroke="#6B5B95" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="646" y="1426" font-size="14" fill="#333">IA ou pessoa</text>
+<polygon points="803,1409 817,1421 803,1433 789,1421" fill="#FBEBD9" stroke="#B8692A" stroke-width="2"/>
+<text x="826" y="1426" font-size="14" fill="#333">Decisão</text>
+<line x1="920" y1="1421" x2="950" y2="1421" stroke="#555" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="956" y="1426" font-size="14" fill="#333">Fluxo eventual</text>
+<circle cx="1103" cy="1421" r="12" fill="#fff" stroke="#555" stroke-width="2"/><text x="1103" y="1426" text-anchor="middle" font-size="12" font-weight="800">B</text>
+<text x="1126" y="1426" font-size="14" fill="#333">Conector (continua na linha de baixo)</text>
+</svg>
