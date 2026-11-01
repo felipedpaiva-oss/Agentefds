@@ -11,7 +11,9 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 - Classificação de dificuldade: **ABNT NBR 15505-2** (caminhada – classificação de percursos). [F]
 - Acessibilidade: trecho acessível já existe até um mirante alto; proposta = **cadeira Julietti na trilha toda**, com cotação própria de dificuldade para Julietti. [F]
 - Abordagem: aspectos **natural + histórico/simbólico + mineração** (os três). [F]
-- Estágio (formulário SEBRAE): **Readequação** (já existe estrutura e sinalização, mas desatualizada/fechada). [proposto — confirmar]
+- Estágio (formulário SEBRAE): **Readequação**. [F – confirmado]
+- Acesso pelo Vila da Serra (Nova Lima): **fora do escopo**. [F]
+- Cotação ABNT NBR 15505-2 + cotação Julietti: **no Bloco 3**, comparando com os 4 níveis do parque. [F]
 - Distância: usar o **número oficial** (5,3 km do termo; ver também a soma do mapa do parque em 1.7). [F]
 - Mirante acessível aberto hoje = **Mirante 3 (Belvedere 3, Nível 1)**. [F + foto]
 - Modelo de visitação defendido: **agendamento gratuito com autonomia + guias locais (Vila Acaba Mundo) como opção**. [F]
@@ -65,7 +67,7 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
   - **Motivo do fechamento: nova etapa de reforma dos pontos de acesso à trilha → fechamento temporário da Travessia da Crista.** Pede que a população respeite a interrupção.
   - Em captação de recursos para "todas as melhorias necessárias" (contato@institutoserradocurral.org).
   - Compromisso declarado: "acesso público, **gratuito**, seguro e bem estruturado". **O comunicado também não fala em visita obrigatoriamente guiada.**
-  - Não informa prazo de reabertura. [?] Slide 8 não enviado.
+  - Não informa prazo de reabertura. Slide 8 = só assinatura. [F]
 - **Crítica ao termo (Felipe) — conferida no PDF:** o termo **não fixa prazo** para concluir as obras nem para reabrir a trilha, e **não prevê penalidade por atraso**. O plano de trabalho lista metas e etapas sem cronograma. A cláusula 7 só permite rescindir por descumprimento, com aviso de 30 dias. A única data foi a promessa à imprensa ("Natal de 2024"). Agravante: a Cláusula 5 diz que não há recurso público. O resultado depende 100% de captação privada, e o fechamento "temporário" já passa de 14 meses.
 - **Histórico de uso (Felipe):** em **2014** a travessia só podia ser feita **com monitor oficial do parque**, e **só em dias de semana**, porque os monitores não trabalhavam no fim de semana. [F] → Coerente com o totem (`campo-09`). O modelo antigo era gratuito e público, mas **excluía quem só tem o fim de semana livre**. Reformular o argumento: não é "a sinalização foi feita para autonomia", e sim "o modelo com monitor restringia o acesso; a proposta é ampliar o acesso com autonomia controlada (agendamento + limite diário + termo de responsabilidade), mantendo guias e monitores como opção".
 - **Linha do tempo consolidada:** 2016 fechamento (fenda/risco geológico perto de cava antiga, cacto ameaçado, obras de contenção da Vale) → 2017 febre amarela → 2018 reabertura parcial → nov/2024 termo PBH × ISC (promessa: Natal de 2024) → mai/2025 ISC inicia ações e travessias guiadas com agendamento (Sympla) → **ago/2025 fechamento "temporário"** para reforma dos acessos e captação de recursos → 31/10/2026 visita do Felipe: segue fechada, aberto só o trecho acessível; sinalização desatualizada e depredada. **Cerca de 15 meses de fechamento "temporário" sem prazo público.**
@@ -77,7 +79,7 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 ### 1.4 Acesso
 - Carro e ônibus. [F]
 - Portaria do Pq. Serra do Curral: Av. José do Patrocínio Pontes, 1.951, Mangabeiras (fim da Av. Agulhas Negras, Praça do Papa). Entrada gratuita. [P]
-- Ônibus: um relato antigo cita a **linha 4103** saindo da Av. Afonso Pena (centro), com descida no 1º ponto depois da Praça do Papa. [P – não confirmado; checar no app/site da BHTrans]
+- Ônibus: **linha 4103**, saindo da Av. Afonso Pena (centro), com descida no 1º ponto depois da Praça do Papa. [P + F – confirmado: é a linha que o Felipe usa]
 
 ### 1.5 Ocorrências / o que o visitante vê [F]
 - Vista 360°: BH inteira e periferias.
@@ -124,8 +126,32 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 - Também: totem "Nível 1 – Estrada da Serra" (estrada, terreno regular, aclive acentuado, 1.730 m), legível, só com adesivos colados.
 - **Síntese:** a infraestrutura de **apoio** (portaria, WC, água, praças, estacionamento, mirante 3, escadarias) está **boa ou ótima**. A degradação se concentra na **sinalização de orientação e interpretação** (totens pichados, painel histórico ilegível, informações cobertas com fita, regras contraditórias) e nos **pontos de acesso/bloqueio** da travessia.
 
+**✅ BLOCO 1 (DIAGNÓSTICO) FECHADO.**
+
 ## 2. Potenciais e fragilidades
-(a preencher)
+*Rascunho montado a partir do Bloco 1 — [aguardando validação do Felipe]*
+
+### Potenciais
+1. **Singularidade da paisagem:** vista 360° com BH inteira de um lado e a cava/lago da Mina de Águas Claras do outro. Contraste cidade × mineração difícil de encontrar em outro lugar.
+2. **Valor simbólico e cultural:** símbolo de BH, Marco de Tombamento (ponto culminante, 1.380 m), poema de Drummond. [?] Confirmar data e órgão do tombamento federal no Bloco 4.
+3. **Proximidade e acesso:** dentro da capital, ônibus 4103 a partir do centro, estacionamento no Mangabeiras, entrada gratuita.
+4. **Infraestrutura de apoio boa:** portarias, WC, água, praças, vagas PcD, Mirante 3 acessível, escadarias com corrimão.
+5. **Natureza:** vegetação de altitude (cerrado/campo rupestre), avifauna rica, microclima mais fresco.
+6. **Progressão de dificuldade já mapeada:** 4 níveis no próprio parque. Atende do iniciante ao experiente.
+7. **Ativos de interpretação:** mineração, geologia, Drummond, miniestações meteorológicas previstas.
+8. **Base de gestão existente:** capacidade de carga (700/dia), termo de cooperação, área protegida em expansão (Corumi → Mangabeiras), eventos (Vertical Run).
+9. **Demanda comprovada:** "milhares de pessoas impactadas" (ISC), bloqueio desrespeitado (as pessoas querem ir).
+
+### Fragilidades
+1. **Gestão e financiamento:** fechada desde ago/2025 sem prazo; termo sem prazo nem penalidade; 100% dependente de captação privada.
+2. **Sinalização de orientação e interpretação:** degradada, pichada, contraditória (10 × 14 anos), informações cobertas com fita, painel histórico ilegível.
+3. **Vandalismo e controle de acesso:** barreira derrubada e placas arrancadas. Visitação irregular, sem nenhum controle de segurança.
+4. **Riscos físicos:** trechos expostos, risco de queda, pedras soltas, declive muito acentuado (Nível 4), pedra escorregadia na chuva, histórico geológico (fenda de 2016).
+5. **Riscos climáticos:** raios e tempestades na crista exposta; incêndio na seca.
+6. **Fragilidade ecológica:** cacto ameaçado, campo rupestre sensível a pisoteio, erosão e drenagem do leito.
+7. **Histórico de acesso restritivo:** monitor só em dias úteis (2014); risco de repetir o problema com o modelo só guiado.
+8. **Pressão minerária no entorno.**
+
 
 ## 3. Propostas (infraestrutura, acessibilidade, sinalização, serviços)
 - Acessibilidade: cadeira Julietti na trilha toda, com cotação própria. Referência: Parque Estadual do Ibitipoca (MG) usa Julietti gratuita com agendamento e recomenda 4 condutores para o circuito de 4 km. [P] Não foi encontrada norma de classificação de trilha para Julietti → criar critério próprio, justificado [?]
