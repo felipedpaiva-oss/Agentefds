@@ -56,7 +56,14 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
   - Sustentabilidade financeira: captação com **empresas mineradoras** de BH (faturamento acima de R$ 1 mi) via leis de incentivo, pessoas físicas (Evoé), eventos e doações. (Contradição interessante: a mineração financiando a proteção da Serra.)
   - FPMZB cede o Mirante 3 e a construção da saída da portaria do Mangabeiras ao ISC (reuniões e guarda de equipamentos).
   - O termo usa o nome "Parque do Paredão da Serra" como sinônimo do Parque da Serra do Curral.
-- **[?] Comunicado oficial do fechamento:** o Felipe diz ter enviado prints, mas eles NÃO chegaram (só veio o PDF do termo).
+- **Comunicado oficial do ISC – "Fechamento temporário do acesso à Travessia da Crista" (Instagram @institutoserradocurral, agosto de 2025; prints de 7 dos 8 slides enviados pelo Felipe)** [P – fonte primária]:
+  - Desde **maio de 2025** o ISC, com voluntários, conduz ações para viabilizar a abertura: reuniões, travessias e avaliações técnicas em campo. Mapeou "todos os pontos críticos relacionados à segurança" e identificou melhorias necessárias em **comunicação, sinalização e gestão das atividades**. "Milhares de pessoas já foram impactadas."
+  - Já feito: limpezas e podas periódicas, manutenção das escadarias.
+  - **Motivo do fechamento: nova etapa de reforma dos pontos de acesso à trilha → fechamento temporário da Travessia da Crista.** Pede que a população respeite a interrupção.
+  - Em captação de recursos para "todas as melhorias necessárias" (contato@institutoserradocurral.org).
+  - Compromisso declarado: "acesso público, **gratuito**, seguro e bem estruturado". **O comunicado também não fala em visita obrigatoriamente guiada.**
+  - Não informa prazo de reabertura. [?] Slide 8 não enviado.
+- **Linha do tempo consolidada:** 2016 fechamento (fenda/risco geológico perto de cava antiga, cacto ameaçado, obras de contenção da Vale) → 2017 febre amarela → 2018 reabertura parcial → nov/2024 termo PBH × ISC (promessa: Natal de 2024) → mai/2025 ISC inicia ações e travessias guiadas com agendamento (Sympla) → **ago/2025 fechamento "temporário"** para reforma dos acessos e captação de recursos → 31/10/2026 visita do Felipe: segue fechada, aberto só o trecho acessível; sinalização desatualizada e depredada. **Cerca de 15 meses de fechamento "temporário" sem prazo público.**
 - 2025–2026: o ISC operou travessias guiadas aos sábados com ingresso pelo Sympla; uma página do Sympla mostra liberação de ingressos **suspensa**, com "comunicado oficial do ISC" anunciado. Um vereador questionou na CMBH o fim das visitas guiadas (quais empresas, quando volta). [P – motivo da suspensão NÃO encontrado]
 - Set/2026: visitação só até o **3º dos 10 mirantes**, justificada por proteção da vegetação e manejo. [P – Moon BH]
 - Hoje: aberta só a parte acessível até um mirante alto, logo antes da crista. [F] → provavelmente o Mirante 3 [?]
