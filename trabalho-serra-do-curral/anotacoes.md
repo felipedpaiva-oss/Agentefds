@@ -12,6 +12,9 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 - Acessibilidade: trecho acessível já existe até um mirante alto; proposta = **cadeira Julietti na trilha toda**, com cotação própria de dificuldade para Julietti. [F]
 - Abordagem: aspectos **natural + histórico/simbólico + mineração** (os três). [F]
 - Estágio (formulário SEBRAE): **Readequação** (já existe estrutura e sinalização, mas desatualizada/fechada). [proposto — confirmar]
+- Distância: usar o **número oficial** (5,3 km do termo; ver também a soma do mapa do parque em 1.7). [F]
+- Mirante acessível aberto hoje = **Mirante 3 (Belvedere 3, Nível 1)**. [F + foto]
+- Modelo de visitação defendido: **agendamento gratuito com autonomia + guias locais (Vila Acaba Mundo) como opção**. [F]
 
 ## 1. Diagnóstico
 ### 1.1 Recorte e números
@@ -84,6 +87,26 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 ### 1.6 Problemas observados [F]
 - Sinalização não condiz mais com a realidade.
 - Placas em mau estado, algumas com sinais de depredação.
+
+### 1.7 Evidências fotográficas de campo (visita de 31/10/2026; arquivos em `fotos/`) [F]
+- `campo-01`: trecho de estrada de terra com **placa arrancada e pichada no chão** e **gradil/barreira derrubado** ao lado dos postes vazios. Mostra vandalismo e que o bloqueio de acesso não está sendo respeitado. Há poças e sulcos de escoamento no leito (drenagem).
+- `campo-02`: placa **"Trilha Conexão Serra do Curral"** (iniciativa da **PBH e da Vale**), bilíngue, pichada e amassada. Liga o **Acesso Vila da Serra (Nova Lima)** à entrada do Parque da Serra do Curral: 800 m até a entrada (880 m no mapa da placa). Regras: menores de **10** anos acompanhados; ter–dom 8h–17h, entrada até 16h. → Existe um **segundo acesso pelo lado de Nova Lima/Vila da Serra**.
+- `campo-03`: **Mirante 3 – Belvedere 3 – Nível 1**. Plataforma metálica com guarda-corpo e painéis interpretativos. Estrutura íntegra, com vista ampla de BH. Hoje é o limite da visitação.
+- `campo-04/05`: totem amarelo **"Estrada da [Serra] / Trilha Alternativa – Acesso Praça do Encontro"** totalmente pichado, com painéis faltando. **Ilegível: não cumpre mais a função de orientar.**
+- `campo-06`: placa "Agredir o meio ambiente é crime com penalidades previstas em lei" **riscada e descascando**.
+- `campo-07`: painel interpretativo que aparenta reproduzir um **documento histórico do Ministério da Educação e Saúde** (provavelmente ligado ao tombamento federal da Serra) com **impressão descascada e quase ilegível**. → A interpretação do patrimônio cultural está perdida.
+- `campo-08`: portão. Placa "Importante": 8h–17h, entrada até 16h; **horário-limite para início da trilha coberto com fita**; acesso suspenso em caso de tempestade, baixa visibilidade, vento, raios, risco de incêndio e deslizamento; "utilize o estacionamento do Parque das Mangabeiras". **Aviso colado: limite diário de 700 visitantes** no Parque da Serra do Curral (capacidade de carga já adotada). Placas de bicicleta e animais rasgadas.
+- `campo-09`: totens oficiais FPMZB "Seja bem-vindo" (bilíngues). Ter–dom e feriados, 8h–17h, entrada até 16h; **limite para iniciar a Travessia da Serra: 14h**; área monitorada por câmeras. Proibido: menores de **14** anos desacompanhados; **Travessia da Serra para menores de 14 anos**; ⚠️ **"às trilhas sem o acompanhamento de monitores do parque"**; animais; veículos. Proibido também: bicicleta/skate/bola, pipas, álcool, sair das vias determinadas, acampar, fumar/fogo. Exige autorização: som, filmagem publicitária, ambulantes, eventos.
+  - ⚠️ **Contradiz em parte a ideia de que a sinalização foi pensada para autonomia total:** o totem oficial exige acompanhamento de **monitores do parque** nas trilhas. Atenção: monitor do parque (funcionário, gratuito) ≠ guia contratado/pago.
+  - ⚠️ **Sinalização incoerente entre si:** idade mínima de 10 anos (placa da Conexão) × 14 anos (totem FPMZB).
+- `campo-10`: **mapa oficial do parque** com classificação própria de dificuldade em 4 níveis:
+  - (A) Estrada da Serra – **Nível 1, percurso leve**: estrada, terreno regular, aclive acentuado, **1.730 m**.
+  - (B) Travessia da Serra – **Nível 2, moderado**: trilha estreita, terreno irregular, **risco de queda**, aclive moderado, **984 m**; **Nível 3, difícil**: estreita, irregular e pedregosa, risco de queda, aclive moderado, **739 m**.
+  - (C) Descida da Serra – **Nível 4, muito difícil**: estreita, **pedras soltas**, risco de queda, **declive muito acentuado**, **497 m**.
+  - **Soma Portaria 1 → Portaria 2 = 3.950 m** (só ida). Os 5,3 km do termo devem incluir outros ramais (a confirmar).
+  - 16 pontos: 01 Portaria 1 (WC, bebedouro) · 02 Praça Carlos Drummond · 03 Posto de Vigilância · 04 Mirante 1 · 05 Praça do Encontro (WC, bebedouro) · 06 Mirante 2 · 07 Mirante 3 · 08–09 Mirantes 4–5 · **10 Marco de Tombamento (1.380 m, ponto culminante)** · 11–15 Mirantes 6–10 · 16 Portaria 2 – Mangabeiras (WC, bebedouro). → Não há WC nem água entre o 05 e o 16.
+  - Vizinhos no mapa: Praça do Papa, Parque Fort Lauderdale, Bairro Mangabeiras, Parque das Mangabeiras. → Serve como **mapa de limites** que faltava.
+  - Altitude oficial 1.380 m × GPX 1.351 m: usar o número oficial.
 
 ## 2. Potenciais e fragilidades
 (a preencher)
