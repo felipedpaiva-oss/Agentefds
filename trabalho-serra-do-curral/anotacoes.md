@@ -43,6 +43,20 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
   - O termo cita expressamente o potencial para "eventos de porte **regional e nacional**" e para a economia turística municipal. → usar na seção de hierarquia.
   - Mineração: a Empabra (Mina Corumi) encerrou as atividades em 13/09/2024 por acordo na 11ª Vara Cível Federal. A área será doada à PBH e **anexada ao Parque das Mangabeiras**. Recuperação em até 4 anos, com plano de fechamento enviado à ANM. Em ago/2024 o COMAM aprovou moção para incluir a PBH no licenciamento de empreendimentos na Serra.
   - ⚠️ Não confundir: a vista do "lago" na trilha é a **Mina de Águas Claras** (outra mina, desativada). A Corumi/Empabra é outra área.
+- **Termo de Cooperação assinado (PDF oficial, 13 p.; GRP 400003, proc. 01-044.847/24-46; assinado em 08 e 11/11/2024)** [P – documento primário]:
+  - Partes: FPMZB (cooperante) × Instituto Serra do Curral (cooperado). Base legal: Lei Municipal 11.065/17 (FPMZB administra a área, art. 70), **Decreto 15.461/14 – Programa "Parceiros da Natureza"**, Decreto 10.710/01, Decreto 16.374/16 (eventos).
+  - **Cl. 2, parágrafo único: o termo "não poderá, em hipótese alguma, servir para restringir o acesso ao parque" nem dar ao ISC "uso exclusivo da área".** ⚠️ Argumento forte para a posição do Felipe contra o modelo só guiado/exclusivo.
+  - Cl. 3.1: reabertura "de forma **agendada e gratuita** nos horários permitidos pelo regulamento da FPMZB". **Não há menção a visita guiada obrigatória em nenhuma parte do termo.**
+  - Cl. 11.1: proibido exercer atividade lucrativa no espaço público; atividades com fim financeiro só se forem totalmente voltadas ao financiamento do projeto. Cl. 3.20–3.22: evento com ingresso precisa de autorização da FPMZB e o benefício econômico volta para o projeto. → Ponto para discutir a venda de travessias guiadas no Sympla.
+  - Cl. 11.2: o projeto pode ser alterado por **concessão mediante licitação**.
+  - **Cl. 3.11: Educação Socioambiental nas comunidades do entorno, "em especial a Vila Acaba Mundo", e "capacitação de guias locais para a Trilha da Crista".** → seção Comunidade.
+  - Cl. 3.12/3.25: relatório semestral de impacto à FPMZB (parceiros técnicos: Baanko e Brandt Meio Ambiente).
+  - Plano de trabalho – 3 metas × 3 etapas: **Estruturas** (madeira → metálicas → leito da trilha); **Nova sinalização** (design → produção → instalação); **Monitoramento e segurança** (sistema de monitoramento → **plano de emergência** → **brigada de incêndio**). Prioridade declarada: estruturas de madeira (escadas e guarda-corpos).
+  - Miniestações meteorológicas: **check-in no Parque da Serra do Curral**, um mirante e **checkout no Mangabeiras**, mais as 9 regionais de BH (chuva, temperatura, umidade, pressão, vento). ⚠️ Sentido oficial previsto = Serra do Curral → Mangabeiras, o contrário do recomendado pelo autor do GPX (que começa no Mangabeiras por causa da subida forte).
+  - Sustentabilidade financeira: captação com **empresas mineradoras** de BH (faturamento acima de R$ 1 mi) via leis de incentivo, pessoas físicas (Evoé), eventos e doações. (Contradição interessante: a mineração financiando a proteção da Serra.)
+  - FPMZB cede o Mirante 3 e a construção da saída da portaria do Mangabeiras ao ISC (reuniões e guarda de equipamentos).
+  - O termo usa o nome "Parque do Paredão da Serra" como sinônimo do Parque da Serra do Curral.
+- **[?] Comunicado oficial do fechamento:** o Felipe diz ter enviado prints, mas eles NÃO chegaram (só veio o PDF do termo).
 - 2025–2026: o ISC operou travessias guiadas aos sábados com ingresso pelo Sympla; uma página do Sympla mostra liberação de ingressos **suspensa**, com "comunicado oficial do ISC" anunciado. Um vereador questionou na CMBH o fim das visitas guiadas (quais empresas, quando volta). [P – motivo da suspensão NÃO encontrado]
 - Set/2026: visitação só até o **3º dos 10 mirantes**, justificada por proteção da vegetação e manejo. [P – Moon BH]
 - Hoje: aberta só a parte acessível até um mirante alto, logo antes da crista. [F] → provavelmente o Mirante 3 [?]
@@ -74,6 +88,7 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 - Já previsto no termo: aulas sobre história e geologia; miniestações meteorológicas (dado vivo para interpretação do microclima). [P]
 
 ## 5. Comunidade local
+- Termo, cl. 3.11: educação socioambiental na **Vila Acaba Mundo** + capacitação de **guias locais** para a Trilha da Crista. [P]
 - Já previsto no termo PBH × ISC: escolas públicas, escoteiros, FEMEMG, Hike Cata Lixo, aulas on-line. [P] → avaliar o que funciona de fato e o que propor além disso.
 
 ## 6. Hierarquia de potencial
