@@ -21,7 +21,7 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
   - Rampas mais fortes (janelas de ~100 m): +28,7% e +24,9% na subida inicial a partir do Mangabeiras; −41,5% num trecho de descida perto do km 3,7. [P]
   - Pontos marcados: vista da Mina de Águas Claras (lago), mirante inicial, início do topo, **"Risco de queda – passagem bem estreita"**, mirante central, pico (~1.334 m), mirante do parque, pequena caverna. [P]
   - Relato do autor do GPX: pedras molhadas muito escorregadias na chuva. [P]
-- **[?] Divergência a resolver:** a imprensa/PBH fala em "Trilha da Crista" de **5,3 km** com 10 mirantes; o seu recorte é 1,3 km. Provavelmente os 5,3 km são o sistema inteiro de trilhas.
+- Extensão oficial da Trilha da Crista: **5,3 km** (PBH, 07/11/2024), com 10 mirantes. O 1,3 km do Felipe é só o trecho de crista. [?] Falta conferir o circuito: PBH 5,3 km × GPX 5,9 km × Felipe 6,5 km.
 
 ### 1.2 Gestão e situação legal
 - Parque da Serra do Curral: municipal, criado em 1999, aberto em set/2012, gestão da Fundação de Parques Municipais e Zoobotânica (FPMZB). Existe plano de manejo conjunto Mangabeiras / Serra do Curral / Fort Lauderdale (4 volumes). [P]
@@ -35,6 +35,14 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 - 2017: parque fechado por >3 meses por febre amarela. Estudo de flora rara também adiou a reabertura. [P]
 - 2018: reabertura com acesso limitado a trilhas e mirantes; visitantes frustrados. [P – EM 19/07/2018]
 - Nov/2024: termo de cooperação PBH × **Instituto Serra do Curral (ISC)** por 5 anos renováveis; reforma/manutenção da trilha com recurso privado. A imprensa diz que as obras de contenção estão concluídas e que não há risco geológico. Plano inicial: **visitas agendadas e com guias** (EM jan/2025); outras matérias falam em visita agendada gratuita. Prazo de dez/2024 adiado para o 1º trimestre de 2025. [P]
+- **Fonte oficial PBH (07/11/2024), texto enviado pelo Felipe** [P – oficial]:
+  - Termo PBH × ISC para reabrir os **5,3 km** da Trilha da Crista, desativada desde 2016. Validade de 5 anos, prorrogável. Requalificação em **3 etapas**: revisão da estrutura, nova sinalização, monitoramento e segurança.
+  - Obras previstas: revitalizar as estruturas de madeira (escadas, guarda-corpos) com material sustentável; revisar e adequar os sistemas de combate a incêndio; **escadas nos trechos mais inclinados**; revitalizar o **Mirante 3** e a **Portaria 2 (Mangabeiras)**; restaurar os equipamentos de proteção e a sinalização. Nome usado pelo ISC: "Travessia da Serra do Curral". Entrega prevista para o Natal de 2024.
+  - **Visitação "agendada e gratuita"**. O texto oficial NÃO diz que é obrigatoriamente guiada. ⚠️ Argumento útil para a posição do Felipe (a exigência de guia aparece só na imprensa, EM jan/2025).
+  - Contrapartidas do ISC: corrida anual **Vertical Run Serra do Curral** (12 km, passando pela Trilha da Crista e pelo Pico Belo Horizonte); aulas presenciais para alunos de escolas públicas; atividades com o **Clube de Escoteiros de MG** e a **Federação Mineira de Montanhismo e Escalada**; aulas on-line gratuitas e acessíveis sobre história, geologia e importância da Serra; **miniestações meteorológicas** na trilha (influência da Serra no clima da RMBH); projeto **"Hike Cata Lixo"** (diagnóstico do lixo coletado).
+  - O termo cita expressamente o potencial para "eventos de porte **regional e nacional**" e para a economia turística municipal. → usar na seção de hierarquia.
+  - Mineração: a Empabra (Mina Corumi) encerrou as atividades em 13/09/2024 por acordo na 11ª Vara Cível Federal. A área será doada à PBH e **anexada ao Parque das Mangabeiras**. Recuperação em até 4 anos, com plano de fechamento enviado à ANM. Em ago/2024 o COMAM aprovou moção para incluir a PBH no licenciamento de empreendimentos na Serra.
+  - ⚠️ Não confundir: a vista do "lago" na trilha é a **Mina de Águas Claras** (outra mina, desativada). A Corumi/Empabra é outra área.
 - 2025–2026: o ISC operou travessias guiadas aos sábados com ingresso pelo Sympla; uma página do Sympla mostra liberação de ingressos **suspensa**, com "comunicado oficial do ISC" anunciado. Um vereador questionou na CMBH o fim das visitas guiadas (quais empresas, quando volta). [P – motivo da suspensão NÃO encontrado]
 - Set/2026: visitação só até o **3º dos 10 mirantes**, justificada por proteção da vegetação e manejo. [P – Moon BH]
 - Hoje: aberta só a parte acessível até um mirante alto, logo antes da crista. [F] → provavelmente o Mirante 3 [?]
@@ -63,10 +71,10 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 - Acessibilidade: cadeira Julietti na trilha toda, com cotação própria. Referência: Parque Estadual do Ibitipoca (MG) usa Julietti gratuita com agendamento e recomenda 4 condutores para o circuito de 4 km. [P] Não foi encontrada norma de classificação de trilha para Julietti → criar critério próprio, justificado [?]
 
 ## 4. Interpretação ambiental
-(a preencher)
+- Já previsto no termo: aulas sobre história e geologia; miniestações meteorológicas (dado vivo para interpretação do microclima). [P]
 
 ## 5. Comunidade local
-(a preencher)
+- Já previsto no termo PBH × ISC: escolas públicas, escoteiros, FEMEMG, Hike Cata Lixo, aulas on-line. [P] → avaliar o que funciona de fato e o que propor além disso.
 
 ## 6. Hierarquia de potencial
 - Metodologia MTur (hierarquização, origem OEA/CICATUR/EMBRATUR). [P] Faixas de pontuação ainda não confirmadas em fonte oficial [?]
