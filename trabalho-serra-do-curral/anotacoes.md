@@ -140,7 +140,18 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 6. **Progressão de dificuldade já mapeada:** 4 níveis no próprio parque. Atende do iniciante ao experiente.
 7. **Ativos de interpretação:** mineração, geologia, Drummond, miniestações meteorológicas previstas.
 8. **Base de gestão existente:** capacidade de carga (700/dia), termo de cooperação, área protegida em expansão (Corumi → Mangabeiras), eventos (Vertical Run).
+9a. **Eventos esportivos (Felipe):** a corrida de montanha prevista no termo aconteceu. **1ª Vertical Run BH, 28/06/2025**, no Parque das Mangabeiras. Organização: Instituto Macunaíma de Cultura, com apoio do ISC e patrocínio da PBH. Percursos de 20 km (mais de 1.000 m de desnível acumulado, passando pelo Pico do Grotão e pela Crista da Serra) e 10 km ("Vertical Fun"). Movimenta o turismo regional e tem potencial nacional. [F + P: Adventuremag; EM 06/2025] ⚠️ O termo falava em 12 km; o evento real teve 20 km.
+9b. **Diversificação da oferta de BH (Felipe):** BH é muito associada ao turismo corporativo, e a baixa seria nas férias e nos fins de semana. Uma trilha com vários níveis pode estimular o **turista de negócios a estender a estadia pelo fim de semana** (o chamado *bleisure*). [F]
+   - Evidência [P]: pesquisa de demanda da **Belotur 2026** (955 entrevistados, 22–26/07/2026): **lazer = 44% dos motivos de viagem** (era 38,1% em 2024). ⚠️ A coleta foi em julho, mês de férias, o que tende a inflar o lazer. Mesmo assim, mais da metade das viagens não é de lazer. Lazer em crescimento reforça a necessidade de oferta de lazer diversificada.
+   - ⚠️ **Não encontrei dado público que comprove a baixa de ocupação hoteleira nos fins de semana em BH** (ABIH-MG só publica picos, como os 83,5% no Carnaval de 2026). Escrever como hipótese plausível, ou buscar o boletim mensal da ABIH-MG / Observatório do Turismo da Belotur.
 9. **Demanda comprovada:** "milhares de pessoas impactadas" (ISC), bloqueio desrespeitado (as pessoas querem ir).
+
+### Público-alvo (Felipe) [F]
+- Moradores de BH e da RMBH (fim de semana).
+- Praticantes e eventos de corrida de montanha (potencial nacional).
+- Parte do público dos grandes eventos de BH: Comida di Buteco, Carnaval, eventos corporativos.
+- **Escolas em dias de semana** (dialoga com a cl. 3.4 do termo: aulas para escolas públicas).
+- **Turistas estrangeiros, especialmente europeus**, interessados em esporte + saúde + aventura leve + cultura + natureza. Não como motivo principal da viagem ("ninguém atravessa o Atlântico só para isso"), mas como **atrativo complementar**: mais uma razão para vir a BH, além da gastronomia e das cidades históricas do entorno, ou um ganho de qualidade na estadia. Condição: trilha concluída e interpretação pronta (inclusive bilíngue).
 
 ### Fragilidades
 1. **Gestão e financiamento:** fechada desde ago/2025 sem prazo; termo sem prazo nem penalidade; 100% dependente de captação privada.
