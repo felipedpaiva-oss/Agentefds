@@ -183,6 +183,54 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 - NBR 15505-2 (edição 2019): **4 critérios, cada um em classes de 1 a 5**: (1) severidade do meio (soma de fatores de perigo: queda, clima, distância de resgate etc.); (2) orientação no percurso (marcação, sinalização, referências); (3) condições do terreno (de piso plano até técnica vertical); (4) intensidade do esforço físico. [P: estudo de aplicação na trilha do Rio do Boi (ICMBio/BioBrasil); FEMERJ 2015] ⚠️ Tabelas completas não acessíveis daqui (norma paga; site do ICMBio bloqueado na sessão).
 - Acessibilidade: cadeira Julietti na trilha toda, com cotação própria. Referência: Parque Estadual do Ibitipoca (MG) usa Julietti gratuita com agendamento e recomenda 4 condutores para o circuito de 4 km. [P] Não foi encontrada norma de classificação de trilha para Julietti → criar critério próprio, justificado [?]
 
+### 3.1 Cotação ABNT NBR 15505-2:2019 (norma completa enviada pelo Felipe) — RASCUNHO, validar
+**Regras da norma:** dividir o percurso em trechos; avaliar cada trecho nos 4 critérios (1 a 5); a nota do percurso em cada critério é a **do pior trecho** (6.1). Se ≥80% da extensão tiver nota menor (em severidade e em terreno), isso deve ser informado. A classificação pode variar por estação do ano (cap. 5).
+
+**Trechos (a partir do GPX, elevação suavizada; desnível total ≈ +272/−293 m, coerente com os ±285 m do Felipe):**
+- T1 – subida do Mangabeiras até a crista: 557 m, +95/−11 m.
+- T2 – crista até o mirante do parque: 1.851 m, +61/−78 m.
+- T3 – retorno ao Mangabeiras: 3.476 m, +116/−204 m.
+
+**a) Severidade do meio (Tabela 1, por nº de fatores):** fatores presentes no trecho da crista:
+b) pedras soltas deslocadas pelo grupo (Nível 4 do mapa); c) queda no vazio/declive acentuado; d) uso das mãos (≈5 trechos <30 m) [F]; e) trechos pedregosos permanentes; f) escorregadio com chuva [GPX]; n) longa exposição ao sol (crista aberta); r) baixa visibilidade/neblina (citada nas placas do parque); t) trecho sem água potável (crista).
+→ **8 fatores = Grau 3 (Severo)**. Na estação chuvosa (out–mar) + h) chuvas intensas = 9 → **Grau 4**. Na seca (ago–set) + l) umidade < 30% = 9 → Grau 4. [?] Ventos fortes (k): Felipe confirma?
+Fora dos fatores: o) ≥1 h sem lugar habitado ou sinal de celular → NÃO (área urbana, com sinal).
+
+**b) Orientação (Tabela 2):** poucas bifurcações; "uma vez que entra só sai em um lugar" [F]; crista = referência geográfica. → **Grau 2 hoje** (sinalização degradada); **Grau 1 com a nova sinalização** (meta da proposta).
+
+**c) Condições do terreno (Tabela 3):** trechos curtos com uso das mãos ("até I Sup. UIAA") → **Grau 4 (percurso com obstáculos)**. ≈5 × <30 m = <150 m → **mais de 80% do percurso em grau ≤3**: informar ao visitante (regra 6.1).
+
+**d) Esforço físico (6.5, IE = maior T + menor T / 2):**
+- Horizontal (premissa: T1 e T2 piso difícil, 2 km/h; T3 piso moderado, 3 km/h): 0,28 + 0,93 + 1,16 = **2,36 h**.
+- Desníveis: 272/200 + 293/300 = 1,36 + 0,98 = **2,34 h**.
+- **IE = 2,36 + 2,34/2 = 3,53 h → Grau 3 (Esforço significativo, 3–6 h).** Robusto: com todo o piso difícil, IE = 4,1 h; com todo moderado, IE = 3,3 h. Continua Grau 3. Coerente com as 3h–3h30 reais [F].
+- [?] Felipe validar o tipo de piso do T3.
+
+**Resultado proposto:** Severidade **3** (4 na estação chuvosa) · Orientação **2** (1 após a sinalização) · Terreno **4** (>80% do percurso ≤3) · Esforço **3**.
+Comunicação (cap. 7 e Anexos B/C): painel no início do percurso e no site com os 4 ícones, desníveis, distância, tempo, mapa, perfil altimétrico e QR code. → Liga direto com a proposta de sinalização.
+
+### 3.2 Cadeira Julietti [F]
+- Viável no percurso inteiro, segundo a avaliação do Felipe olhando o terreno e com a experiência dele pilotando Julietti.
+- Trechos críticos: **escadarias** e **Nível 4 / passagem estreita**.
+- **4 condutores** dão conta porque a trilha é curta. Referência: o Ibitipoca recomenda 4 condutores para o circuito de 4 km. [P]
+- Não existe norma brasileira de classificação para Julietti. → Propor uma cotação própria, deixando claro que é autoral.
+
+### 3.3 Propostas do Felipe [F]
+**Sinalização**
+- Novo projeto, com QR code e material antivandalismo (aceitou as sugestões).
+- **Trilíngue: português, inglês e espanhol.**
+- **Mapa com curvas de nível**, mais técnico, para trilheiros experientes.
+- **Sinalização intermediária na crista** como referência de localização para pedir socorro (marcos numerados).
+- Painel da classificação ABNT no início (cap. 7 da norma).
+
+**Infraestrutura**
+- Reforma dos pontos de acesso (já anunciada pelo ISC) e drenagem do leito (aceitou as sugestões).
+
+**Serviços e canais digitais**
+- **Site mínimo trilíngue** com informações detalhadas da trilha, o **traçado GPX**, reserva direta de **guia da Vila Acaba Mundo** e o **agendamento** da visita.
+- **Canal de reserva separado para profissionais:** guias da Vila Acaba Mundo, outros guias, escolas e agências.
+- Aluguel/empréstimo de Julietti; guias locais (aceitou as sugestões).
+
 ## 4. Interpretação ambiental
 - Já previsto no termo: aulas sobre história e geologia; miniestações meteorológicas (dado vivo para interpretação do microclima). [P]
 
