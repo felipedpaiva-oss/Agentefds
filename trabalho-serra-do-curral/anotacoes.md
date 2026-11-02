@@ -129,7 +129,9 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 **✅ BLOCO 1 (DIAGNÓSTICO) FECHADO.**
 
 ## 2. Potenciais e fragilidades
-*Rascunho montado a partir do Bloco 1 — [aguardando validação do Felipe]*
+*Validado pelo Felipe.*
+
+**Carro-chefe / diferencial nº 1 [F – escolhido]:** trilha de montanha com vista 360° **dentro da capital**, servida por linha municipal e **integrável ao roteiro urbano no mesmo dia** (trilha de manhã → Mercado Central → samba → noite).
 
 ### Potenciais
 1. **Singularidade da paisagem:** vista 360° com BH inteira de um lado e a cava/lago da Mina de Águas Claras do outro. Contraste cidade × mineração difícil de encontrar em outro lugar.
@@ -159,18 +161,26 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 - Diferencial apontado: **chega-se de ônibus saindo de BH** e dá para **encaixar num roteiro urbano no mesmo dia**: trilha de manhã → almoço no Mercado Central → samba à tarde → vida noturna.
 - ⚠️ Conferência [P]: o **Rola-Moça também tem ônibus** (linhas metropolitanas 3900, 3910 e 3942 do Centro até o Jardim Canadá, segundo o EM de jan/2025). Não encontrei transporte público para a Serra da Piedade nem para o Pico do Itabirito [? não confirmado]. → **Reformular o diferencial:** a Serra do Curral é a única **dentro da capital**, servida por **linha municipal** (4103) direto do centro, a poucos minutos dos atrativos urbanos (Mercado Central, bares, samba). É a trilha que **se integra ao roteiro urbano**, não uma excursão de dia inteiro. Também é o próprio símbolo da cidade, visto de quase toda BH.
 
+### Segurança pública (Felipe) [F]
+- **2004** (1ª vez que fez): a área era **perigosa**.
+- **Hoje**, depois da criação do parque: **tranquila**. Vigias o tempo todo, posto da polícia/Guarda Municipal na portaria, e em 01/11/2026 havia **viatura em patrulha lá em cima**. O totem cita câmeras de vigilância; o mapa mostra Posto de Vigilância (ponto 03).
+- → A criação do parque (2012) **resolveu um problema de segurança pública**: argumento a favor da visitação estruturada. Segurança vira **potencial**, não fragilidade.
+
 ### Fragilidades
 1. **Gestão e financiamento:** fechada desde ago/2025 sem prazo; termo sem prazo nem penalidade; 100% dependente de captação privada.
 2. **Sinalização de orientação e interpretação:** degradada, pichada, contraditória (10 × 14 anos), informações cobertas com fita, painel histórico ilegível.
 3. **Vandalismo e controle de acesso:** barreira derrubada e placas arrancadas. Visitação irregular, sem nenhum controle de segurança.
 4. **Riscos físicos:** trechos expostos, risco de queda, pedras soltas, declive muito acentuado (Nível 4), pedra escorregadia na chuva, histórico geológico (fenda de 2016).
-5. **Riscos climáticos:** raios e tempestades na crista exposta; incêndio na seca.
+5. **Riscos climáticos:** raios e tempestades na crista exposta; incêndio na seca. Felipe não viu sinais de queimada recente; viu as **casinhas/pontos de observação de incêndio** na crista (estrutura preventiva existente = ponto positivo). [F]
 6. **Fragilidade ecológica:** cacto ameaçado, campo rupestre sensível a pisoteio, erosão e drenagem do leito.
 7. **Histórico de acesso restritivo:** monitor só em dias úteis (2014); risco de repetir o problema com o modelo só guiado.
 8. **Pressão minerária no entorno.**
 
 
+**✅ BLOCO 2 (POTENCIAIS E FRAGILIDADES) FECHADO.**
+
 ## 3. Propostas (infraestrutura, acessibilidade, sinalização, serviços)
+- NBR 15505-2 (edição 2019): **4 critérios, cada um em classes de 1 a 5**: (1) severidade do meio (soma de fatores de perigo: queda, clima, distância de resgate etc.); (2) orientação no percurso (marcação, sinalização, referências); (3) condições do terreno (de piso plano até técnica vertical); (4) intensidade do esforço físico. [P: estudo de aplicação na trilha do Rio do Boi (ICMBio/BioBrasil); FEMERJ 2015] ⚠️ Tabelas completas não acessíveis daqui (norma paga; site do ICMBio bloqueado na sessão).
 - Acessibilidade: cadeira Julietti na trilha toda, com cotação própria. Referência: Parque Estadual do Ibitipoca (MG) usa Julietti gratuita com agendamento e recomenda 4 condutores para o circuito de 4 km. [P] Não foi encontrada norma de classificação de trilha para Julietti → criar critério próprio, justificado [?]
 
 ## 4. Interpretação ambiental
