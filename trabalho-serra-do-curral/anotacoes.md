@@ -193,7 +193,7 @@ Legenda: **[F]** = informação do Felipe (vivência/visita) · **[P]** = pesqui
 
 **a) Severidade do meio (Tabela 1, por nº de fatores):** fatores presentes no trecho da crista:
 b) pedras soltas deslocadas pelo grupo (Nível 4 do mapa); c) queda no vazio/declive acentuado; d) uso das mãos (≈5 trechos <30 m) [F]; e) trechos pedregosos permanentes; f) escorregadio com chuva [GPX]; n) longa exposição ao sol (crista aberta); r) baixa visibilidade/neblina (citada nas placas do parque); t) trecho sem água potável (crista).
-→ **8 fatores = Grau 3 (Severo)**. Na estação chuvosa (out–mar) + h) chuvas intensas = 9 → **Grau 4**. Na seca (ago–set) + l) umidade < 30% = 9 → Grau 4. [?] Ventos fortes (k): Felipe confirma?
+→ **8 fatores = Grau 3 (Severo)**. Na estação chuvosa (out–mar) + h) chuvas intensas = 9 → **Grau 4**. Na seca (ago–set) + l) umidade < 30% = 9 → Grau 4. Ventos fortes (k): **não** [F]. Fatores validados pelo Felipe sem cortes.
 Fora dos fatores: o) ≥1 h sem lugar habitado ou sinal de celular → NÃO (área urbana, com sinal).
 
 **b) Orientação (Tabela 2):** poucas bifurcações; "uma vez que entra só sai em um lugar" [F]; crista = referência geográfica. → **Grau 2 hoje** (sinalização degradada); **Grau 1 com a nova sinalização** (meta da proposta).
@@ -204,7 +204,7 @@ Fora dos fatores: o) ≥1 h sem lugar habitado ou sinal de celular → NÃO (ár
 - Horizontal (premissa: T1 e T2 piso difícil, 2 km/h; T3 piso moderado, 3 km/h): 0,28 + 0,93 + 1,16 = **2,36 h**.
 - Desníveis: 272/200 + 293/300 = 1,36 + 0,98 = **2,34 h**.
 - **IE = 2,36 + 2,34/2 = 3,53 h → Grau 3 (Esforço significativo, 3–6 h).** Robusto: com todo o piso difícil, IE = 4,1 h; com todo moderado, IE = 3,3 h. Continua Grau 3. Coerente com as 3h–3h30 reais [F].
-- [?] Felipe validar o tipo de piso do T3.
+- Piso do T3 [F]: **calçada/rua**, não é mais trilha. Recalculando com piso fácil (4 km/h): horizontal = 0,28 + 0,93 + 0,87 = 2,07 h; desníveis = 2,34 h; **IE = 2,34 + 2,07/2 = 3,37 h → Grau 3**. (Parte inicial do T3 ainda desce por trilha; o resultado não muda.)
 
 **Resultado proposto:** Severidade **3** (4 na estação chuvosa) · Orientação **2** (1 após a sinalização) · Terreno **4** (>80% do percurso ≤3) · Esforço **3**.
 Comunicação (cap. 7 e Anexos B/C): painel no início do percurso e no site com os 4 ícones, desníveis, distância, tempo, mapa, perfil altimétrico e QR code. → Liga direto com a proposta de sinalização.
@@ -213,7 +213,7 @@ Comunicação (cap. 7 e Anexos B/C): painel no início do percurso e no site com
 - Viável no percurso inteiro, segundo a avaliação do Felipe olhando o terreno e com a experiência dele pilotando Julietti.
 - Trechos críticos: **escadarias** e **Nível 4 / passagem estreita**.
 - **4 condutores** dão conta porque a trilha é curta. Referência: o Ibitipoca recomenda 4 condutores para o circuito de 4 km. [P]
-- Não existe norma brasileira de classificação para Julietti. → Propor uma cotação própria, deixando claro que é autoral.
+- Não existe norma brasileira de classificação para Julietti. → Cotação simples e **autoral** (opção a, padrão): **"Julietti – avançada: 4 condutores; transposição assistida nas escadarias e no trecho de Nível 4"**.
 
 ### 3.3 Propostas do Felipe [F]
 **Sinalização**
@@ -230,6 +230,14 @@ Comunicação (cap. 7 e Anexos B/C): painel no início do percurso e no site com
 - **Site mínimo trilíngue** com informações detalhadas da trilha, o **traçado GPX**, reserva direta de **guia da Vila Acaba Mundo** e o **agendamento** da visita.
 - **Canal de reserva separado para profissionais:** guias da Vila Acaba Mundo, outros guias, escolas e agências.
 - Aluguel/empréstimo de Julietti; guias locais (aceitou as sugestões).
+
+**Segurança / resgate** [F – incluir]
+- Marcos numerados na crista **cadastrados com o Corpo de Bombeiros (193) e a Guarda Municipal**: quem pede socorro informa o código do marco ("estou no marco C-4") e o resgate localiza na hora. Coordenadas dos marcos publicadas também no site/GPX.
+
+**Promoção e comercialização** [F]
+- **Incluir a travessia no "cardápio" oficial de atrativos de BH** (portal e materiais da Belotur, Centros de Atendimento ao Turista, roteiros oficiais, concierges de hotel) para gerar fluxo. Liga com o argumento do *bleisure* e com o roteiro urbano "trilha + Mercado Central + samba".
+
+**✅ BLOCO 3 (PROPOSTAS) FECHADO.**
 
 ## 4. Interpretação ambiental
 - Já previsto no termo: aulas sobre história e geologia; miniestações meteorológicas (dado vivo para interpretação do microclima). [P]
