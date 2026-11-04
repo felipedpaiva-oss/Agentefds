@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Felipe Diniz Paiva — Raquettes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700&family=Barlow:ital,wght@0,400;0,500;0,600;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#18242e; --ink2:#3d4c58; --mute:#6b7884;
+  --snow:#f6f8fa; --ice:#e3ebf1; --ice2:#c9d7e2; --line:#d5dee6;
+  --accent:#b8492a; --pine:#2f5d50;
+}
+@page{size:A4;margin:0}
+*{box-sizing:border-box}
+html,body{margin:0;background:#8d99a3}
+body{font-family:Barlow,system-ui,sans-serif;color:var(--ink);font-size:10pt;line-height:1.42;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{width:210mm;height:297mm;margin:10mm auto;background:#fff;position:relative;overflow:hidden;display:flex;flex-direction:column}
+@media print{html,body{background:#fff}.page{margin:0;break-after:page}}
+h1,h2,h3,.cond{font-family:"Barlow Condensed",sans-serif;font-weight:600;letter-spacing:.04em;margin:0}
+h2{font-size:17pt;text-transform:uppercase;letter-spacing:.08em}
+h3{font-size:11.5pt;text-transform:uppercase;letter-spacing:.09em;color:var(--ink)}
+p{margin:0 0 2.2mm}
+.kicker{font-family:"Barlow Condensed";text-transform:uppercase;letter-spacing:.18em;font-size:9pt;color:var(--accent);font-weight:600}
+.rule{height:2px;width:14mm;background:var(--accent);margin:2.5mm 0 4mm}
+
+/* ---------- page 1 ---------- */
+.hero{background:var(--ink);color:#fff;padding:15mm 16mm 22mm;position:relative}
+.hero svg.ridge{position:absolute;left:0;right:0;bottom:-1px;width:100%;height:20mm}
+.hero h1{font-size:38pt;line-height:.95;letter-spacing:.06em;text-transform:uppercase;font-weight:700}
+.hero .role{font-family:"Barlow Condensed";font-size:15pt;letter-spacing:.12em;text-transform:uppercase;color:var(--ice2);margin-top:3mm}
+.hero .tag{display:inline-block;margin-top:5mm;border:1px solid rgba(255,255,255,.45);padding:1.2mm 3mm;font-family:"Barlow Condensed";letter-spacing:.14em;text-transform:uppercase;font-size:9.5pt}
+.hero .contact{position:absolute;right:16mm;top:16mm;text-align:right;font-size:9.5pt;line-height:1.6;color:#dfe7ee}
+.hero .contact b{color:#fff;font-weight:600}
+.body1{padding:9mm 16mm 0;flex:1;display:grid;grid-template-columns:1fr 62mm;gap:9mm}
+.lead{font-family:"Source Serif 4",serif;font-size:11.4pt;line-height:1.55;color:var(--ink)}
+.pillars{display:grid;grid-template-columns:1fr;gap:4.5mm;margin-top:5mm}
+.pillar{display:grid;grid-template-columns:10mm 1fr;gap:3.5mm;align-items:start}
+.pillar .ico{width:10mm;height:10mm;border-radius:50%;background:var(--ice);display:grid;place-items:center}
+.pillar .ico svg{width:5.6mm;height:5.6mm;stroke:var(--ink);fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.pillar h3{margin-bottom:1mm}
+.pillar p{color:var(--ink2);margin:0}
+.side{background:var(--snow);border-left:1px solid var(--line);margin-top:-9mm;padding:9mm 6mm 6mm}
+.side h3{font-size:10pt;color:var(--accent);margin:0 0 2mm}
+.side section{margin-bottom:5.5mm}
+.side ul{list-style:none;margin:0;padding:0}
+.side li{padding:1.1mm 0;border-bottom:1px solid var(--line);font-size:9.2pt;line-height:1.3}
+.side li:last-child{border-bottom:0}
+.side li small{display:block;color:var(--mute);font-size:8.2pt}
+.lang{display:grid;grid-template-columns:1fr auto;font-size:9.2pt;row-gap:1mm}
+.lang span:nth-child(even){color:var(--mute);font-family:"Barlow Condensed";letter-spacing:.06em}
+.hl{margin:7mm 0 0;padding:1mm 0 1mm 6mm;border-left:3px solid var(--accent)}
+.hl blockquote{margin:0;font-family:"Source Serif 4",serif;font-style:italic;font-size:11.5pt;line-height:1.5;color:var(--ink)}
+.hl figcaption{margin-top:2mm;font-size:8.6pt;color:var(--mute);letter-spacing:.03em}
+.foot{padding:5mm 16mm;font-size:8.2pt;color:var(--mute);display:flex;justify-content:space-between;border-top:1px solid var(--line)}
+
+/* ---------- page 2 ---------- */
+.p2{padding:13mm 16mm 0;flex:1;display:flex;flex-direction:column}
+.p2 .top{display:grid;grid-template-columns:1fr 1fr;gap:9mm;align-items:end}
+.p2 .intro{color:var(--ink2);font-size:9.6pt}
+.mapwrap{display:grid;grid-template-columns:106mm 1fr;gap:7mm;margin-top:6mm}
+.mapbox{border:1px solid var(--line);background:var(--ice);line-height:0}
+svg.map{width:100%;height:auto;display:block}
+.m-sea{fill:#eef2f5}
+.m-land{fill:#ffffff}.m-it,.m-ch,.m-mc{fill:#f1f4f6}
+.m-dep{fill:#fff;stroke:#d9e1e8;stroke-width:.6}
+.m-border{fill:none;stroke:#8a98a4;stroke-width:1.1;stroke-dasharray:4 2.5}
+.m-city{fill:#7b8893}
+.m-citylab{font:500 9.5px Barlow,sans-serif;fill:#6b7884}
+.m-country{font:600 12px "Barlow Condensed",sans-serif;letter-spacing:.3em;fill:#a6b2bc}
+.m-site circle{fill:var(--accent);stroke:#fff;stroke-width:1.6}
+.m-num{font:700 9.5px "Barlow Condensed",sans-serif;fill:#fff}
+.m-lab{font:600 11.5px "Barlow Condensed",sans-serif;fill:var(--ink);paint-order:stroke;stroke:#fff;stroke-width:3.2px;stroke-linejoin:round;letter-spacing:.02em}
+.terrains{list-style:none;padding:0;margin:0;counter-reset:t}
+.terrains li{display:grid;grid-template-columns:7mm 1fr;gap:2.5mm;padding:2.1mm 0;border-bottom:1px solid var(--line);align-items:baseline}
+.terrains .n{width:6mm;height:6mm;border-radius:50%;background:var(--accent);color:#fff;font:700 8.5pt "Barlow Condensed";display:grid;place-items:center;transform:translateY(1mm)}
+.terrains b{font-family:"Barlow Condensed";font-weight:600;font-size:11pt;letter-spacing:.03em}
+.terrains small{display:block;color:var(--mute);font-size:8.4pt}
+.note{margin-top:3.5mm;font-size:8.6pt;color:var(--mute);font-style:italic}
+.skills{display:grid;grid-template-columns:repeat(3,1fr);gap:5mm;margin-top:9mm}
+.skill{background:var(--snow);border-top:3px solid var(--ink);padding:4.5mm 4.5mm 4mm}
+.skill h3{font-size:10.5pt;margin-bottom:2mm}
+.skill ul{margin:0;padding-left:4mm;color:var(--ink2);font-size:9.2pt}
+.skill li{margin-bottom:1.1mm}
+
+/* ---------- page 3 ---------- */
+.p3{padding:13mm 16mm 0;flex:1;display:flex;flex-direction:column}
+.reviews{display:grid;grid-template-columns:1fr;gap:5mm;margin-top:2mm}
+.review{display:grid;grid-template-columns:34mm 1fr;gap:6mm;padding:5mm 0;border-bottom:1px solid var(--line)}
+.review:last-child{border-bottom:0}
+.who b{font-family:"Barlow Condensed";font-size:12.5pt;letter-spacing:.05em;text-transform:uppercase;display:block}
+.who small{color:var(--mute);font-size:8.6pt;display:block;line-height:1.35}
+.stars{color:var(--accent);letter-spacing:.15em;font-size:9pt;margin-top:1.5mm}
+.review blockquote{margin:0;font-family:"Source Serif 4",serif;font-size:10.6pt;line-height:1.55;color:var(--ink);position:relative}
+.review blockquote::before{content:"\201C";position:absolute;left:-5mm;top:-3mm;font-size:26pt;color:var(--ice2);font-family:"Source Serif 4",serif}
+.src{font-size:8.4pt;color:var(--mute);margin-top:1mm}
+.refs{margin-top:auto;margin-bottom:8mm;display:grid;grid-template-columns:1fr 1fr;gap:6mm}
+.refbox{background:var(--ink);color:#fff;padding:6mm}
+.refbox h3{color:#fff;margin-bottom:2mm}
+.refbox p{color:#d5dee6;font-size:9.4pt;margin:0}
+.refbox .orgs{font-family:"Barlow Condensed";font-size:14pt;letter-spacing:.05em;margin:1mm 0 2mm;color:#fff}
+.dispo{border:1px solid var(--line);padding:6mm}
+.dispo p{font-size:9.4pt;color:var(--ink2);margin:0 0 1.6mm}
+</style>
+</head>
+<body>
+
+<!-- ================= PAGE 1 ================= -->
+<div class="page">
+  <header class="hero">
+    <div class="kicker" style="color:#e9a58f">Portfolio · Randonnée en raquettes</div>
+    <h1 style="margin-top:3mm">Felipe<br>Diniz Paiva</h1>
+    <div class="role">Accompagnateur en montagne · Diplômé d'État</div>
+    <div class="tag">Hiver 2026 – 2027 · France &amp; Italie</div>
+    <div class="contact">
+      <b>+33 7 73 32 64 50</b><br>
+      felipedpaiva@gmail.com<br>
+      Adhérent SNAM
+    </div>
+    <svg class="ridge" viewBox="0 0 800 80" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0 80 L0 52 L70 30 L120 44 L190 12 L250 40 L300 28 L360 50 L430 18 L480 34 L540 8 L610 42 L660 30 L720 46 L800 26 L800 80 Z" fill="#fff"/>
+      <path d="M190 12 L205 21 L195 22 L183 18 Z M540 8 L556 18 L545 19 L532 14 Z M430 18 L442 25 L433 26 L422 23 Z" fill="#c9d7e2"/>
+    </svg>
+  </header>
+
+  <div class="body1">
+    <main>
+      <p class="lead">Accompagnateur en montagne diplômé d'État, j'encadre des groupes en randonnée et en trek pour <b>Allibert Trekking</b> et <b>Chemins du Sud</b>. Ma carte professionnelle inclut la qualification <b>moyenne montagne enneigée</b>.</p>
+      <p class="lead">Je souhaite apporter à vos séjours raquettes ce que mes clients apprécient l'été : un groupe bien encadré et des journées bien organisées. Je leur fais aussi découvrir les paysages, la flore et la géologie.</p>
+
+      <div class="pillars">
+        <div class="pillar">
+          <div class="ico"><svg viewBox="0 0 24 24"><circle cx="8" cy="8" r="3"/><circle cx="16.5" cy="9" r="2.5"/><path d="M2.5 20c.6-3.6 2.8-5.5 5.5-5.5s4.9 1.9 5.5 5.5M13.5 15.2c.9-.8 1.9-1.2 3-1.2 2.3 0 4 1.6 4.5 4.5"/></svg></div>
+          <div><h3>Encadrement de groupes</h3><p>Circuits accompagnés de plusieurs jours en France, en Italie, en Autriche, en Allemagne et aux Açores. Je gère la logistique, la sécurité et la dynamique du groupe, avec une clientèle francophone et internationale.</p></div>
+        </div>
+        <div class="pillar">
+          <div class="ico"><svg viewBox="0 0 24 24"><path d="M12 3 21 19H3Z"/><path d="M12 9v4.5M12 16.3v.2"/></svg></div>
+          <div><h3>Sécurité en terrain enneigé</h3><p>Deux formations ANENA (nivologie pratique, sauvetage avalanche en autonomie). PSC1 et WAFA (Wilderness Advanced First Aid). Kit DVA, pelle et sonde personnel.</p></div>
+        </div>
+        <div class="pillar">
+          <div class="ico"><svg viewBox="0 0 24 24"><path d="M3 18a9 9 0 0 1 18 0Z"/><path d="M3 18h18M9.5 18v-3a2.5 2.5 0 0 1 5 0v3M6 13.2l12 0M8.2 10.4h7.6"/></svg></div>
+          <div><h3>Bivouac et vie en hiver</h3><p>Je sais construire avec les clients un abri de neige (igloo, abri norvégien). Je suis disposé à passer les nuits en igloo, abri de fortune, cabane ou refuge. J'ai tout mon équipement personnel d'hiver.</p></div>
+        </div>
+      </div>
+      <figure class="hl">
+        <blockquote>« Très empathique, avec des connaissances de la flore et du volcanisme locaux, il anime le voyage au jour le jour, avec passion, connaissance et professionnalisme. »</blockquote>
+        <figcaption>Jean Claude L., voyageur Allibert Trekking, juillet 2026</figcaption>
+      </figure>
+    </main>
+
+    <aside class="side">
+      <section>
+        <h3>Diplômes &amp; formations</h3>
+        <ul>
+          <li>DE Accompagnateur en montagne<small>CNSNMM · 2024 · qualification moyenne montagne enneigée</small></li>
+          <li>ANENA · Nivologie pratique<small>Janvier 2022</small></li>
+          <li>ANENA · Sauvetage avalanche en autonomie<small>Janvier 2022</small></li>
+          <li>WAFA · Wilderness Advanced First Aid<small>2025</small></li>
+          <li>PSC1 · Prévention et secours civiques</li>
+        </ul>
+      </section>
+      <section>
+        <h3>Langues</h3>
+        <div class="lang">
+          <span>Français</span><span>C1</span>
+          <span>Anglais</span><span>C1</span>
+          <span>Italien</span><span>B2</span>
+          <span>Espagnol</span><span>B2</span>
+          <span>Portugais</span><span>Natif</span>
+        </div>
+      </section>
+      <section>
+        <h3>Statut</h3>
+        <ul>
+          <li>RC professionnelle via le SNAM<small>Attestation 2026</small></li>
+          <li>Nationalités italienne et brésilienne</li>
+          <li>Permis B</li>
+        </ul>
+      </section>
+    </aside>
+  </div>
+  <div class="foot"><span>Felipe Diniz Paiva · Accompagnateur en montagne</span><span>1 / 3</span></div>
+</div>
+
+<!-- ================= PAGE 2 ================= -->
+<div class="page">
+  <div class="p2">
+    <div class="top">
+      <div>
+        <div class="kicker">Hiver</div>
+        <h2>Terrains de raquettes parcourus</h2>
+        <div class="rule"></div>
+      </div>
+      <p class="intro">Ces sorties viennent de ma pratique personnelle, de la liste de courses préalable à l'entrée en formation et de la formation au DE, dont un stage d'observation auprès d'un accompagnateur en activité.</p>
+    </div>
+
+    <div class="mapwrap">
+      <div class="mapbox">{{MAP}}</div>
+      <div>
+        <ol class="terrains">
+          <li><span class="n">1</span><div><b>Jura</b></div></li>
+          <li><span class="n">2</span><div><b>Vallée de l'Arve</b><small>Haute-Savoie</small></div></li>
+          <li><span class="n">3</span><div><b>Vercors</b><small>Isère · Drôme</small></div></li>
+          <li><span class="n">4</span><div><b>Névache · Vallée de la Clarée</b><small>Hautes-Alpes</small></div></li>
+          <li><span class="n">5</span><div><b>Le Monêtier-les-Bains</b><small>Hautes-Alpes</small></div></li>
+          <li><span class="n">6</span><div><b>Briançonnais</b><small>Hautes-Alpes</small></div></li>
+          <li><span class="n">7</span><div><b>Dévoluy</b><small>Hautes-Alpes</small></div></li>
+          <li><span class="n">8</span><div><b>Queyras</b><small>Hautes-Alpes</small></div></li>
+          <li><span class="n">9</span><div><b>Vallée de l'Ubaye</b><small>Alpes-de-Haute-Provence</small></div></li>
+          <li><span class="n">10</span><div><b>Mont Ventoux</b><small>Vaucluse · en hiver et en été</small></div></li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="skills">
+      <div class="skill">
+        <h3>Abri &amp; bivouac</h3>
+        <ul>
+          <li>Construction d'igloo et d'abri norvégien avec les clients</li>
+          <li>Nuits en igloo, abri de fortune, cabane ou refuge</li>
+        </ul>
+      </div>
+      <div class="skill">
+        <h3>Sécurité</h3>
+        <ul>
+          <li>Nivologie de terrain (ANENA)</li>
+          <li>Recherche de victime au DVA et sauvetage en autonomie (ANENA)</li>
+          <li>Premiers secours en milieu isolé (WAFA)</li>
+        </ul>
+      </div>
+      <div class="skill">
+        <h3>Équipement personnel</h3>
+        <ul>
+          <li>Raquettes</li>
+          <li>DVA, pelle, sonde</li>
+          <li>Doudoune, matelas technique hiver</li>
+          <li>Réchaud</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>Felipe Diniz Paiva · Accompagnateur en montagne</span><span>2 / 3</span></div>
+</div>
+
+<!-- ================= PAGE 3 ================= -->
+<div class="page">
+  <div class="p3">
+    <div class="kicker">Ils ont voyagé avec moi</div>
+    <h2>Avis de voyageurs</h2>
+    <div class="rule"></div>
+    <p class="src" style="margin-bottom:2mm">Avis publiés sur le site d'Allibert Trekking pour le circuit « Les îles arc-en-ciel » aux Açores, que j'ai encadré. Textes reproduits tels quels.</p>
+
+    <div class="reviews">
+      <div class="review">
+        <div class="who"><b>Jean Claude L.</b><small>21/07/2026<br>3 voyages avec Allibert</small><div class="stars">Très satisfait</div></div>
+        <blockquote>Un voyage de découverte des Acores, très bien organisé, bien cadencé et varié. Les volcans sont partout. Les Açoriens ont appris à vivre avec et nous le découvrons, ressentons tous les jours. Les paysages sont juste magnifiques. Baleines et dauphins en bonus. La réussite de ce voyage tient beaucoup à notre extraordinaire guide, Félipé. Très empathique, avec des connaissances de la flore et du volcanisme locaux, Il anime le voyage au jour le jour, avec passion, connaissance et professionnalisme.</blockquote>
+      </div>
+      <div class="review">
+        <div class="who"><b>Muriel B.</b><small>22/06/2025<br>3 voyages avec Allibert</small><div class="stars">Très satisfaite</div></div>
+        <blockquote>1er voyage aux Açores : réalité correspondant à 100% aux photos. Entre volcans, forêts de cryptomerias, prairies et océan, ce fût une expérience magique… (ne pas oublier son imperméable car là-bas, il fait beau plusieurs fois par jours 😉) Merci à Felipe, notre guide, pour son accompagnement très professionnel : bienveillant, organisé, curieux, passionné des Açores… et spécialiste en salades diverses et variées 😀. Il a su rendre ce séjour inoubliable.</blockquote>
+      </div>
+      <div class="review">
+        <div class="who"><b>Maud T.</b><small>02/07/2025<br>1 voyage avec Allibert</small><div class="stars">Très satisfaite</div></div>
+        <blockquote>Voyage magnifique en compagnie de participants très sympathiques. Notre guide Felipe nous a bien entourés, chouchoutés et a pris grand soin de nous. Belle expérience dans de beaux paysages et des fleurs superbes.</blockquote>
+      </div>
+    </div>
+
+    <div class="refs">
+      <div class="refbox">
+        <h3>Références professionnelles</h3>
+        <div class="orgs">Allibert Trekking · Chemins du Sud</div>
+        <p>Coordonnées des responsables communiquées sur demande.</p>
+      </div>
+      <div class="dispo">
+        <h3 style="margin-bottom:2mm">Me contacter</h3>
+        <p><b>+33 7 73 32 64 50</b></p>
+        <p>felipedpaiva@gmail.com</p>
+        <p>Je travaille en français, anglais, italien, espagnol et portugais.</p>
+      </div>
+    </div>
+  </div>
+  <div class="foot"><span>Felipe Diniz Paiva · Accompagnateur en montagne</span><span>3 / 3</span></div>
+</div>
+
+</body>
+</html>
